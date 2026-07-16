@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "channel": "stable",
+  "version": "0.1.40",
+  "minimumVersion": "0.1.40",
+  "required": true,
+  "publishedAt": "2026-07-16T17:51:11.3161924Z",
+  "notes": "# BondoMod v0.40\n\n- Added automatic updates, Premium, Name Spoofer and Platform Display.\n- Added online Workshop Maps and rebuilt Quick Chat.\n- Fixed Custom Decals, Balls, Boost Meter and FPS tracking.\n- Simplified the UI and improved startup and plugin stability.",
+  "artifact": {
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.40/bondo-mod-0.1.40-x64.nsis.7z",
+    "fileName": "bondo-mod-0.1.40-x64.nsis.7z",
+    "size": 163125151,
+    "sha256": "026450d77c4bbf8fa816cb5b73fc53aeff8cbe4c0dcd910678a4e3cf85401d09"
+  },
+  "installer": {
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.40/BondoMod-Installer.exe",
+    "fileName": "BondoMod-Installer.exe",
+    "size": 697977,
+    "sha256": "cbe71a184aea2781582b7b411e394316def6b2ff9c4a491ca858f6d83763cb92"
+  },
+  "signature": "F+gBLf7P5CEwQSEocqKGD11bk3xG/d9nkyT58VgM3wG4BPj0fUYbtbfuqeqr/IRgzLbbCQNcjI7y8+G1EAWbAg=="
+}
