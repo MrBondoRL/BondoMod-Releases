@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "version": "0.1.41",
-  "minimumVersion": "0.1.41",
+  "version": "0.1.42",
+  "minimumVersion": "0.1.42",
   "required": true,
-  "publishedAt": "2026-07-16T18:45:18.6899415Z",
-  "notes": "# BondoMod 0.1.41\n\n- Fixed Custom Ball support during FIFA-style ball events.\n- Added a downloadable Workshop Maps catalog with search and previews.\n- Fixed Platform Display player and console detection.\n- Improved end-of-match and goal platform displays.\n- Kept the app, build, and updater version numbers in sync.",
+  "publishedAt": "2026-07-17T13:44:02.1247091Z",
+  "notes": "# BondoMod 0.1.42\n\n- Updates are now checked before the main app opens.\n- Fixed faster reopening after an update.\n- Added a separate Imported / Downloaded Maps view.\n- Added reliable Custom ZIP importing and safer Custom Ball restore.\n- Improved Platform Display and button animations.",
   "artifact": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.41/bondo-mod-0.1.41-x64.nsis.7z",
-    "fileName": "bondo-mod-0.1.41-x64.nsis.7z",
-    "size": 163117284,
-    "sha256": "7a07ce5a4feea8df36cb6c71e0ab0be8a095689d0d16ff8934ee255c50c3bfd9"
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.42/bondo-mod-0.1.42-x64.nsis.7z",
+    "fileName": "bondo-mod-0.1.42-x64.nsis.7z",
+    "size": 163138082,
+    "sha256": "2471dc59be0b2a0378a78afee4388c2ff9a1afb4d56ab028bb4e6fe1ae916682"
   },
   "installer": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.41/BondoMod-Installer.exe",
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.42/BondoMod-Installer.exe",
     "fileName": "BondoMod-Installer.exe",
-    "size": 697950,
-    "sha256": "dbacf1e8707ab9a45aee319c3a680971e6d83ba526eb6ee93e992f9ef1cc1fb1"
+    "size": 697984,
+    "sha256": "e45823abcb02c890290286714eaa069c33fa92eb43ec09cc8c42b7b7597bc15c"
   },
-  "signature": "I5UGx2mLTUvarzSj27WgHIjVf+PDZe1zvL2fXMcDE2XF8LOb+o9K4HFOJUushZf9NRzL1P6fv0NfSQdmwA8jAQ=="
+  "signature": "GAQXDHVGb43JosUgm4fKIF0OsL23ZrWbpufBYENTKkH8iIUcDRhEwpINoCBeuKxi4R2cTQkkSB1REdszAPN5CA=="
 }
