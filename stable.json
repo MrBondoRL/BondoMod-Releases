@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "version": "0.1.42",
-  "minimumVersion": "0.1.42",
+  "version": "0.1.43",
+  "minimumVersion": "0.1.43",
   "required": true,
-  "publishedAt": "2026-07-17T13:44:02.1247091Z",
-  "notes": "# BondoMod 0.1.42\n\n- Updates are now checked before the main app opens.\n- Fixed faster reopening after an update.\n- Added a separate Imported / Downloaded Maps view.\n- Added reliable Custom ZIP importing and safer Custom Ball restore.\n- Improved Platform Display and button animations.",
+  "publishedAt": "2026-07-17T15:08:49.8752838Z",
+  "notes": "# BondoMod 0.1.43\n\n- Added native PS4 controller input recording over Bluetooth and USB.\n- Added official platform icons to Platform Display.\n- Keyboard, mouse, and controller scoreboard inputs can now be recorded directly.\n- Improved compatibility with Steam and controller-mapping software.\n- Added hover and press animations to every button.\n- Added a reusable installer that always downloads the newest release.",
   "artifact": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.42/bondo-mod-0.1.42-x64.nsis.7z",
-    "fileName": "bondo-mod-0.1.42-x64.nsis.7z",
-    "size": 163138082,
-    "sha256": "2471dc59be0b2a0378a78afee4388c2ff9a1afb4d56ab028bb4e6fe1ae916682"
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.43/bondo-mod-0.1.43-x64.nsis.7z",
+    "fileName": "bondo-mod-0.1.43-x64.nsis.7z",
+    "size": 163317535,
+    "sha256": "cd7417e8676cab2eecdfee52f6909f90457815a7d4eab3019d1d04d991e37794"
   },
   "installer": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.42/BondoMod-Installer.exe",
-    "fileName": "BondoMod-Installer.exe",
-    "size": 697984,
-    "sha256": "e45823abcb02c890290286714eaa069c33fa92eb43ec09cc8c42b7b7597bc15c"
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.43/BondoMod-Setup-0.1.43.exe",
+    "fileName": "BondoMod-Setup-0.1.43.exe",
+    "size": 698067,
+    "sha256": "7b15cb1a1b8d9190e08fc5876b0cf8e4adf6512ddb84b423d9715462a5d49a3a"
   },
-  "signature": "GAQXDHVGb43JosUgm4fKIF0OsL23ZrWbpufBYENTKkH8iIUcDRhEwpINoCBeuKxi4R2cTQkkSB1REdszAPN5CA=="
+  "signature": "fRFVnXyT8q0AYC3vmeG6oq0yV0s52YVwY1oqjcdX5D84mmhuYhokkU1bgGEDh1lmFSd5wGk+KywsaXBOEIU7CA=="
 }
