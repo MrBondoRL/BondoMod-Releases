@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "version": "0.1.43",
-  "minimumVersion": "0.1.43",
+  "version": "0.1.44",
+  "minimumVersion": "0.1.44",
   "required": true,
-  "publishedAt": "2026-07-17T15:08:49.8752838Z",
-  "notes": "# BondoMod 0.1.43\n\n- Added native PS4 controller input recording over Bluetooth and USB.\n- Added official platform icons to Platform Display.\n- Keyboard, mouse, and controller scoreboard inputs can now be recorded directly.\n- Improved compatibility with Steam and controller-mapping software.\n- Added hover and press animations to every button.\n- Added a reusable installer that always downloads the newest release.",
+  "publishedAt": "2026-07-17T20:07:06.6300469Z",
+  "notes": "# BondoMod 0.1.44\n\n- Improved item swap reliability and automatic backup repair.\n- Fixed Platform Display match data and F6/Share activation.\n- Improved Name Spoofer activation and response handling.\n- Stabilized the FPS overlay during Discord screen sharing.\n- Added a protected developer console for detailed error reports.",
   "artifact": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.43/bondo-mod-0.1.43-x64.nsis.7z",
-    "fileName": "bondo-mod-0.1.43-x64.nsis.7z",
-    "size": 163317535,
-    "sha256": "cd7417e8676cab2eecdfee52f6909f90457815a7d4eab3019d1d04d991e37794"
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.44/bondo-mod-0.1.44-x64.nsis.7z",
+    "fileName": "bondo-mod-0.1.44-x64.nsis.7z",
+    "size": 163336347,
+    "sha256": "f224225608d3d80bfcbcf0d1de214be750ccf12e70c7251801a78f5821fdad16"
   },
   "installer": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.43/BondoMod-Setup-0.1.43.exe",
-    "fileName": "BondoMod-Setup-0.1.43.exe",
-    "size": 698067,
-    "sha256": "7b15cb1a1b8d9190e08fc5876b0cf8e4adf6512ddb84b423d9715462a5d49a3a"
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.44/BondoMod-Setup-0.1.44.exe",
+    "fileName": "BondoMod-Setup-0.1.44.exe",
+    "size": 698071,
+    "sha256": "7667d2a0e35b8d0ce32b15439d2b8f2bc4ac2556fe94dfdb385b5762e84bb3b6"
   },
-  "signature": "fRFVnXyT8q0AYC3vmeG6oq0yV0s52YVwY1oqjcdX5D84mmhuYhokkU1bgGEDh1lmFSd5wGk+KywsaXBOEIU7CA=="
+  "signature": "0LjniNvE2oBzBjKcr/BH+irjkubV3oRwX7GZ74cVRc9x9mudTb/UjN5ZlCLfPc9daA49yxVI4e1vkNpS96vVCQ=="
 }
