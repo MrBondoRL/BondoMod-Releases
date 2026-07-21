@@ -1,22 +1,22 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "version": "0.1.44",
-  "minimumVersion": "0.1.44",
+  "version": "0.1.45",
+  "minimumVersion": "0.1.45",
   "required": true,
-  "publishedAt": "2026-07-17T20:07:06.6300469Z",
-  "notes": "# BondoMod 0.1.44\n\n- Improved item swap reliability and automatic backup repair.\n- Fixed Platform Display match data and F6/Share activation.\n- Improved Name Spoofer activation and response handling.\n- Stabilized the FPS overlay during Discord screen sharing.\n- Added a protected developer console for detailed error reports.",
+  "publishedAt": "2026-07-21T13:11:13.2627385Z",
+  "notes": "# BondoMod 0.1.45\n\n- Added Spotify Overlay with album art and live song progress.\n- Added a transparent Rocket League session timer and automatic overlay restore.\n- Added a new controller display style and a dedicated controller deadzone plugin.\n- Added a searchable item catalog with category filters and multi-item selection.\n- Fixed Platform Display startup, update launch reliability, FPS stability, and Name Spoofer handling.",
   "artifact": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.44/bondo-mod-0.1.44-x64.nsis.7z",
-    "fileName": "bondo-mod-0.1.44-x64.nsis.7z",
-    "size": 163336347,
-    "sha256": "f224225608d3d80bfcbcf0d1de214be750ccf12e70c7251801a78f5821fdad16"
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.45/bondo-mod-0.1.45-x64.nsis.7z",
+    "fileName": "bondo-mod-0.1.45-x64.nsis.7z",
+    "size": 162266622,
+    "sha256": "93b6f36416c5520a348133291ade405d5f0717d8716259bf592b39b2386e40be"
   },
   "installer": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.44/BondoMod-Setup-0.1.44.exe",
-    "fileName": "BondoMod-Setup-0.1.44.exe",
-    "size": 698071,
-    "sha256": "7667d2a0e35b8d0ce32b15439d2b8f2bc4ac2556fe94dfdb385b5762e84bb3b6"
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.45/BondoMod-Setup-0.1.45.exe",
+    "fileName": "BondoMod-Setup-0.1.45.exe",
+    "size": 698003,
+    "sha256": "9dae5de17551085b244fdf2a7811afaf408dc84fe7537dce0202ffbd8cce733b"
   },
-  "signature": "0LjniNvE2oBzBjKcr/BH+irjkubV3oRwX7GZ74cVRc9x9mudTb/UjN5ZlCLfPc9daA49yxVI4e1vkNpS96vVCQ=="
+  "signature": "YcisLWdSPDefCD/cHywpStMELxArz4UACAB+66HqwuhA9bgpInQERYvMibe5shffMk0MoHvkE8n/+K1Ow1kmDQ=="
 }
