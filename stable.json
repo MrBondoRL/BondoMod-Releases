@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "version": "0.1.47",
-  "minimumVersion": "0.1.47",
+  "version": "0.1.48",
+  "minimumVersion": "0.1.48",
   "required": true,
-  "publishedAt": "2026-07-22T10:17:21.4090551Z",
-  "notes": "# BondoMod 0.1.47\n\n- Fixed post-update launching and desktop shortcut recovery.\n- Improved Spotify album covers, progress display and proportional scaling.\n- Made Platform Display follow held inputs reliably and restored the proper platform artwork.\n- Added complete plugin tutorials, a website link and a collapsible developer console.\n- Expanded the BondoMod website and Discord access.",
+  "publishedAt": "2026-07-22T11:51:33.6717191Z",
+  "notes": "# BondoMod 0.1.48\n\n- Improved item swaps and paint handling across all supported categories.\n- Added the new Match UI overlay with customizable scoreboard styles.\n- Made Spotify covers load faster and improved Platform Display controller hold detection.\n- Strengthened update launching, desktop shortcuts and saved startup settings.\n- Renamed BondoMod Premium to BondoMod Plus.",
   "artifact": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.47/bondo-mod-0.1.47-x64.nsis.7z",
-    "fileName": "bondo-mod-0.1.47-x64.nsis.7z",
-    "size": 162280267,
-    "sha256": "5bdb91d4bd14e5782978f675babb970095cb670c602a3a9ef82afd4dd1692950"
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.48/bondo-mod-0.1.48-x64.nsis.7z",
+    "fileName": "bondo-mod-0.1.48-x64.nsis.7z",
+    "size": 162277326,
+    "sha256": "2bf35276803557de773fcc1294f31e5eb2df63ddbefeed1526546ce633f120dc"
   },
   "installer": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.47/BondoMod-Installer.exe",
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.48/BondoMod-Installer.exe",
     "fileName": "BondoMod-Installer.exe",
     "size": 31744,
-    "sha256": "9c0592309b9e39e0ebbf22974a0b181a8afb474936a703ff8a0330777e8f0e76"
+    "sha256": "691c876572879db3eb6edf72dbac45d3f58337a56f767aec33a1cc11bb2d90e7"
   },
   "setup": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.47/BondoMod-Setup-0.1.47.exe",
-    "fileName": "BondoMod-Setup-0.1.47.exe",
-    "size": 698075,
-    "sha256": "3a3550afaf524fb6bab147a437a5701d20d876a8b3afc6ffd1551fde6210999b"
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.48/BondoMod-Setup-0.1.48.exe",
+    "fileName": "BondoMod-Setup-0.1.48.exe",
+    "size": 698183,
+    "sha256": "7140654441e38c6ff360afe82d6723f483d4ecc9ed0afd658a040f01e0302ea4"
   },
-  "signature": "OY1WbwSY/QS5hAt1MS5g+zqgET8IKbVcSqqdHd/J/95Uiq/dhsaFeJ4427CrvIqkF5CdHuKQ8Ytj+WTrzlC/DA=="
+  "signature": "BX9E9QgmpIzsibiDF5y+jj/0+AYJRvbBYb5tOG6h71LeD2k02i+KHeTUd4R0XF6sGFkIa/8RRueMlppEswKRCg=="
 }
