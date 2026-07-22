@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "version": "0.1.49",
-  "minimumVersion": "0.1.49",
+  "version": "0.1.50",
+  "minimumVersion": "0.1.50",
   "required": true,
-  "publishedAt": "2026-07-22T13:38:18.3339202Z",
-  "notes": "# BondoMod 0.1.49\n\n- Fixed BondoMod staying invisible when an overlay was still running.\n- Fixed reopening the mod after an update or a second launch.\n- Improved the installer handoff so successful launches are no longer reported as failures.\n- Fixed Custom Balls across the standard ball and rotating event-ball variants.\n- Reworked Custom Match UI with the RLCS 2024 style, reliable match-only visibility and improved score/time tracking.\n- Moved Custom Match UI into the Customes category.\n- Improved Spotify album-cover recovery and caching.",
+  "publishedAt": "2026-07-22T15:34:51.6823673Z",
+  "notes": "# BondoMod 0.1.50\n\n- Added the new Ball Speed overlay with KM/H and MPH display options.\n- Fixed the installer appearing to do nothing and added visible download, install and recovery progress.\n- Improved update completion and automatic BondoMod reopening.\n- Improved Platform Display controller detection and hold-to-show response.\n- Strengthened item swapping across every supported category and fixed failures on long Windows paths.",
   "artifact": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.49/bondo-mod-0.1.49-x64.nsis.7z",
-    "fileName": "bondo-mod-0.1.49-x64.nsis.7z",
-    "size": 162288071,
-    "sha256": "8b00c0fd6ce45650058be38c8e4494aec2c23cbb9cc7b4acbb8a584628a69cf9"
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.50/bondo-mod-0.1.50-x64.nsis.7z",
+    "fileName": "bondo-mod-0.1.50-x64.nsis.7z",
+    "size": 162281594,
+    "sha256": "ae68b2fca4ca2603db66fe93b4a185c71b7bb304064214054d74441d8dbeca0b"
   },
   "installer": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.49/BondoMod-Installer.exe",
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.50/BondoMod-Installer.exe",
     "fileName": "BondoMod-Installer.exe",
-    "size": 32256,
-    "sha256": "58b466bbc7260781b49e4d4b275e60c3053375b854f1c94fc33e3c15bd45574f"
+    "size": 38912,
+    "sha256": "ddb4741c977d871ce3eae88b1ed7737323a1a531938b2d34d9caf402fd511c0a"
   },
   "setup": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.49/BondoMod-Setup-0.1.49.exe",
-    "fileName": "BondoMod-Setup-0.1.49.exe",
-    "size": 698123,
-    "sha256": "4f60987041c87f067e6180051d869bf3c1db39152a41ed7fa5ff8471cbcd79bb"
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.50/BondoMod-Setup-0.1.50.exe",
+    "fileName": "BondoMod-Setup-0.1.50.exe",
+    "size": 698169,
+    "sha256": "eacc553b753aaeabba825514aa56224da0b282fb1b399bb885b5f72e3da3d7e5"
   },
-  "signature": "bT3OLPfUGJTa+4Rk2rBUTrEPnCnohraYQltXnR15iPdSrV7O/jxzDZ6/8qLx5KCDnPoKZxjnlIzyoEP3d5zeDw=="
+  "signature": "zYOgxlxFXyJARWCbGl9WZiDzWSa01o3Ur854q9W/3jWybwdxtE6Wr187mBtVONCEn/09yfppNqySa7tsAo94Bw=="
 }
