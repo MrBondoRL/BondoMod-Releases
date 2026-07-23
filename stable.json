@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "version": "0.1.53",
-  "minimumVersion": "0.1.53",
+  "version": "0.1.54",
+  "minimumVersion": "0.1.54",
   "required": true,
-  "publishedAt": "2026-07-23T11:59:53.7730440Z",
-  "notes": "# BondoMod 0.1.53\n\n- Fixed Custom Match UI alignment and scaling.\n- Added Custom Match UI support for Private Matches.\n- Removed the optional RLCS boost-meter replacement.",
+  "publishedAt": "2026-07-23T12:35:26.1385991Z",
+  "notes": "# BondoMod 0.1.54\n\n- Fixed update checks when BondoMod is already running in the background.\n- Improved installer reliability when a Windows proxy or GitHub endpoint fails.\n- Updated the official website address to bondomod.pages.dev.",
   "artifact": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.53/bondo-mod-0.1.53-x64.nsis.7z",
-    "fileName": "bondo-mod-0.1.53-x64.nsis.7z",
-    "size": 162457310,
-    "sha256": "5aa63248a6ae34a3c67a3754ac1015afeb3e15cb820106cfcf5d7d510f223708"
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.54/bondo-mod-0.1.54-x64.nsis.7z",
+    "fileName": "bondo-mod-0.1.54-x64.nsis.7z",
+    "size": 162458707,
+    "sha256": "6676eb03588b9235b61d32d003d023ff0ea406c4c3b4979d1b2232f20e95b94d"
   },
   "installer": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.53/BondoMod-Installer.exe",
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.54/BondoMod-Installer.exe",
     "fileName": "BondoMod-Installer.exe",
-    "size": 38912,
-    "sha256": "f865ac720908368140e3527f0dfde5d07dd58f6e3a02b5f3c7328834beecc7b4"
+    "size": 41472,
+    "sha256": "d3fcb06f26aaf355c616f4528c54c947ef68e8df41efad35b8e756e31dfa6bb9"
   },
   "setup": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.53/BondoMod-Setup-0.1.53.exe",
-    "fileName": "BondoMod-Setup-0.1.53.exe",
-    "size": 698119,
-    "sha256": "aa1c66caa2f2a9b2ee9dfd1c5f62c22d40f3b41b18e9238265cfbefc849c2cfe"
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.54/BondoMod-Setup-0.1.54.exe",
+    "fileName": "BondoMod-Setup-0.1.54.exe",
+    "size": 698110,
+    "sha256": "cf202adebadb9dbdf7a957e3dde2ddf2454da5e488685bb59a2d2e4cfcf42cbb"
   },
-  "signature": "g+fFVivNP4HKppQ/GtaEx1zjOTzxFIEoPhJs16qIrDPIgCt8qPQ5NToSJTDuovxXwAfSDjJw3qfg9rbWvCqlAA=="
+  "signature": "ujKLOIlOXrxN0cmZ3eWTGVYrSezv7MBFQsZBhMZxA6VastFrvbRy69fDW51jz6g74oy5G4yIgC++ZfgBZaHdAQ=="
 }
