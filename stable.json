@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "version": "0.1.51",
-  "minimumVersion": "0.1.51",
+  "version": "0.1.52",
+  "minimumVersion": "0.1.52",
   "required": true,
-  "publishedAt": "2026-07-23T09:05:54.5484074Z",
-  "notes": "# BondoMod 0.1.51\n\n- Added session-only Item Spawning for training and offline play when Rocket League is launched without EAC.\n- Added category browsing, search, multi-selection, paints and certifications to Item Spawning.\n- Rebuilt Custom Match UI with the authentic compact RLCS 2025 look and fixed its clock and goal tracking.\n- Simplified Ball Speed to clean transparent text and aligned the overlay color controls.",
+  "publishedAt": "2026-07-23T10:24:52.5094635Z",
+  "notes": "# BondoMod 0.1.52\n\n- Item Spawning now blocks unsupported game builds instead of risking a crash.\n- Rebuilt Custom Match UI with RLCS 2025 and RLCS 2024 styles.\n- Added an optional matching RLCS boost meter.\n- Improved Epic Games Name Spoofer startup checks.\n- Added automatic background startup for saved overlays.\n- Keeps every overlay above Borderless Rocket League.",
   "artifact": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.51/bondo-mod-0.1.51-x64.nsis.7z",
-    "fileName": "bondo-mod-0.1.51-x64.nsis.7z",
-    "size": 162439598,
-    "sha256": "2e50d45bc37945980ef4746b61d7ccf4b5e5f1601e4293a41acc337777fbc1b3"
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.52/bondo-mod-0.1.52-x64.nsis.7z",
+    "fileName": "bondo-mod-0.1.52-x64.nsis.7z",
+    "size": 162768553,
+    "sha256": "5f86f21d2f377a0b7f013ffe7ac264be8ecf8649c46e9487ac1fae1f2044f2a7"
   },
   "installer": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.51/BondoMod-Installer.exe",
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.52/BondoMod-Installer.exe",
     "fileName": "BondoMod-Installer.exe",
     "size": 38912,
-    "sha256": "c929b48149948d8386d6a162822db3b423c08b8e81becf2b08834d0ea6a87e14"
+    "sha256": "ba32128d1a90ac3763d1ac44b3122b631b023a98314b268af510024b25f337ce"
   },
   "setup": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.51/BondoMod-Setup-0.1.51.exe",
-    "fileName": "BondoMod-Setup-0.1.51.exe",
-    "size": 698113,
-    "sha256": "8a0a560aa41a76da1b3299de2f8127ede2baf6d2dd54854742aa08884f6b0f7b"
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.52/BondoMod-Setup-0.1.52.exe",
+    "fileName": "BondoMod-Setup-0.1.52.exe",
+    "size": 698169,
+    "sha256": "69a7887aec390f4037f1e95e7b2fcb8641a62e677ab1bc3715b3d2bc1009c41a"
   },
-  "signature": "yMkzrHw4TdpiJQZD0P41FwI1xFmLsTLyyGVImdz8pRozrE2t/nP39qY6armyFOKj0qmC1NVLsmikWgWL0AqVBQ=="
+  "signature": "IjKQtir7u3grYX1eW0CKykl5QZ/1wLFHWYn5P+OXvTj3HEWVHkcrLnmqbZiCay078wBpsgdFJDcHDTIgFQRhDw=="
 }
