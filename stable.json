@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "version": "0.1.58",
-  "minimumVersion": "0.1.58",
-  "required": false,
-  "publishedAt": "2026-07-29T11:54:37.1472356Z",
-  "notes": "# BondoMod 0.1.58 â€” Discord Login Fix\r\n\r\n- **Fixed Discord login**\r\n- **Removed the Info button**\r\n- **Separated Overlays and RL Overlays**\r\n- **Added automatic Developer Access for official.themg**\r\n- **Improved account access reliability**",
+  "version": "0.1.59",
+  "minimumVersion": "0.1.59",
+  "required": true,
+  "publishedAt": "2026-07-29T14:55:04.1135565Z",
+  "notes": "# BondoMod 0.1.59 â€” Overlay & UI Update\n\n- **Controller, KBM and Spotify Overlays are now separated**\n- **Fixed Custom Match UI in supported online and private matches**\n- **Improved Platform Display and PlayStation controller detection**\n- **Fixed Epic Games Name Spoofer compatibility**\n- **Simplified FPS, MMR, Platform Display and Shader settings**\n- **Added brighter, more colorful RL Shader styles**\n- **Restored the correct BondoMod logo**",
   "artifact": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.58/bondo-mod-0.1.58-x64.nsis.7z",
-    "fileName": "bondo-mod-0.1.58-x64.nsis.7z",
-    "size": 162471101,
-    "sha256": "61cc9b12aa9582811b67cd024a0696f6aba3b85043008419f0411269b7c27902"
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.59/bondo-mod-0.1.59-x64.nsis.7z",
+    "fileName": "bondo-mod-0.1.59-x64.nsis.7z",
+    "size": 162472442,
+    "sha256": "25929461e356519032133f1b7fc3376c7dad18ad2a252b8f92a76aed36adbdc3"
   },
   "installer": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.58/BondoMod-Installer.exe",
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.59/BondoMod-Installer.exe",
     "fileName": "BondoMod-Installer.exe",
     "size": 41472,
-    "sha256": "9db68de5d282c10815c3c406434ab40817e7ae7b60ac5d1501248117f2661184"
+    "sha256": "ea1c40fc50c313fa0e19fe58b07190fe52e636b19a7fd4a7aa470f57a032a957"
   },
   "setup": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.58/BondoMod-Setup-0.1.58.exe",
-    "fileName": "BondoMod-Setup-0.1.58.exe",
-    "size": 698125,
-    "sha256": "9c4c3e7019f0fec5c2650278419de7c2ec51e4df9d7e52a46314112a2b9f251e"
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.59/BondoMod-Setup-0.1.59.exe",
+    "fileName": "BondoMod-Setup-0.1.59.exe",
+    "size": 698179,
+    "sha256": "ffbadf62db78bcae1730de86f781abc59f15f8137718e3822e14810f4c1073d9"
   },
-  "signature": "Ol5KuafLDMtugdLDx+yDkpbKAZbele5Xh3xdAz5StRqHaKlcaEcN4PqQX593BTS4RUWLp1P06/ieVyOL84QdAQ=="
+  "signature": "IRprSZL3+/Kzm6nIFrHNWp0dlg5Ra9Fz3iJgLEmcNp7fYSJ+Fjo/gVRyUmJyqMjOmfuWvqF1zQldmPKJJFjxDQ=="
 }
