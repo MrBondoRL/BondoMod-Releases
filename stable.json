@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "version": "0.1.56",
-  "minimumVersion": "0.1.56",
-  "required": true,
-  "publishedAt": "2026-07-24T18:23:16.4015529Z",
-  "notes": "# BondoMod 0.1.56\n\n- Controller, KBM and Spotify overlays now work without Rocket League.\n- Game-bound overlays now show a clear error when Rocket League is closed.",
+  "version": "0.1.57",
+  "minimumVersion": "0.1.57",
+  "required": false,
+  "publishedAt": "2026-07-29T11:02:02.9929489Z",
+  "notes": "# BondoMod 0.1.57\r\n\r\n- Added Discord login with clean profiles and custom local display names.\r\n- Active Server Boosters now receive BondoMod Plus automatically.\r\n- Item Swapper now requires a connected Discord account and has safer compatibility checks.\r\n- Simplified the app layout and moved the smaller Launch RL button to the bottom right.",
   "artifact": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.56/bondo-mod-0.1.56-x64.nsis.7z",
-    "fileName": "bondo-mod-0.1.56-x64.nsis.7z",
-    "size": 162457421,
-    "sha256": "d5e5397a2567ab40965b6dba1ff0067134ac4287745887da4fb582dd20bf6882"
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.57/bondo-mod-0.1.57-x64.nsis.7z",
+    "fileName": "bondo-mod-0.1.57-x64.nsis.7z",
+    "size": 162472481,
+    "sha256": "e1dbd09bd0ef86276d46403b92eeb652ca7ca4806c85e2bdd77f75512f73d3c8"
   },
   "installer": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.56/BondoMod-Installer.exe",
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.57/BondoMod-Installer.exe",
     "fileName": "BondoMod-Installer.exe",
     "size": 41472,
-    "sha256": "de9c115989caac73fcadf5d0debda4e98a942409b8df215f3031b9eb70766bdd"
+    "sha256": "41517f0e1e9f8311eb4947dc3cfc78c2d1895e674e7df58b7ca4dd364405e167"
   },
   "setup": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.56/BondoMod-Setup-0.1.56.exe",
-    "fileName": "BondoMod-Setup-0.1.56.exe",
-    "size": 698118,
-    "sha256": "d0372cfd6570034f40e1d5a796593fdd9bbd48fb3247f52fd1f3da33096423f3"
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.57/BondoMod-Setup-0.1.57.exe",
+    "fileName": "BondoMod-Setup-0.1.57.exe",
+    "size": 698188,
+    "sha256": "959aaa5d4cf09f3554d93cf35dace6567391e6bc2d34d121047ed4cce77caaba"
   },
-  "signature": "pdT6RYTjcHSihSv3QXbGcExOSoyGTHDWwdnEE/aTW43e4QZpg9zDTPxJUPFiop8VlsIlJSR2bJwjjTSslEQ0DQ=="
+  "signature": "7who5jrZ968Wc6K1JP7BRE/FPeKfBWglws3LNful1aTGT7hoVCxFfpOT8OOp94P6k9cKb0gOSVv6Xbbqpfx8DQ=="
 }
