@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "version": "0.1.64",
-  "minimumVersion": "0.1.64",
+  "version": "0.1.65",
+  "minimumVersion": "0.1.65",
   "required": false,
-  "publishedAt": "2026-08-11T09:09:13.3402804Z",
-  "notes": "# BondoMod 0.1.64 - Plus and Item Swapper Improvements\n\n**New**\n\n- Added an immediate `Success!` overlay after Discord unlocks BondoMod Plus.\n- Added clear Plus benefits for complete UI customization and custom shader generation.\n\n**Improved**\n\n- Darkened the standard gray interface.\n- Consolidated Item Swapper into a single heading and enlarged its workspace.\n- Moved the Launch Rocket League button into the top navigation so it no longer blocks controls.\n- Item swaps can now be applied, reverted, activated and deactivated while Rocket League is running.\n\n**Fixed**\n\n- Fixed stale donor-package caching when swapping Gold Crush to Alpha Boost.\n- Preserved verified original item backups after interrupted swaps.",
+  "publishedAt": "2026-08-11T09:56:13.7703401Z",
+  "notes": "# BondoMod 0.1.65 - Item Swapper Compatibility\n\n**Improved**\n\n- Item swaps now retry safely with both immutable backups and current Rocket League packages after game updates.\n- Boost and Goal Explosion swaps are verified across multiple real package combinations.\n- Removed unsupported Player Titles and Player Anthems from the Item Swapper.\n- Restored Discord profile images in the account control.\n- Localized the BondoMod Plus page for English and German.\n- Adjusted RLCS 2024 and RLCS 2025 scoreboard sizing and placement.\n\n**Fixed**\n\n- Fixed stale backups causing swap failures after Rocket League updates.\n- Fixed Standard and Gold Crush to Alpha Boost generation.\n- Ensured existing Discord accounts refresh their roles after the role-only migration.",
   "artifact": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.64/bondo-mod-0.1.64-x64.nsis.7z",
-    "fileName": "bondo-mod-0.1.64-x64.nsis.7z",
-    "size": 161078462,
-    "sha256": "a5d8df3c47092d406b6d5c7ca8ab2c44256dcc764e9f7e828a6d51cb0a39169a"
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.65/bondo-mod-0.1.65-x64.nsis.7z",
+    "fileName": "bondo-mod-0.1.65-x64.nsis.7z",
+    "size": 161078789,
+    "sha256": "5f5738b96c3d2e1b17a17e51cf7018a1c05bf67e3e55998bfdadfa7e9c9a2dd9"
   },
   "installer": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.64/BondoMod-Installer.exe",
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.65/BondoMod-Installer.exe",
     "fileName": "BondoMod-Installer.exe",
     "size": 41472,
-    "sha256": "12a7275fdf29a7d5b88f7ac5698445b0433c47a614a73ff58fd3abffdba6eb47"
+    "sha256": "405bd4c7d82575d3b27646eb512313a16c5760c33df1dceaa1fee07419ee4df7"
   },
   "setup": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.64/BondoMod-Setup-0.1.64.exe",
-    "fileName": "BondoMod-Setup-0.1.64.exe",
-    "size": 698122,
-    "sha256": "9a085fca46227424b4c9ef6a998a7bf470a17da71bf9dd81a974a20746b8870b"
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.65/BondoMod-Setup-0.1.65.exe",
+    "fileName": "BondoMod-Setup-0.1.65.exe",
+    "size": 698204,
+    "sha256": "c87a789cde5d3088b6e3e5e7979cb6c446ed42fb0c85f39dc38533c02b592cfc"
   },
-  "signature": "xRw2x5/GVAWMqawQXVdEJKfBzg5DrpfqxlR51iKAbjpIDDVfZOCq3rZTTE0B9bARmC/r08S6J6zhWgalC0bxDA=="
+  "signature": "kBAICpFDLj2mI8VzXRobh4+wG1LKoPzERHgReTVz/MFfBa56w+AiDnOXnZKZLl0bBKGD8IUmdSUOArP/ZK/LDg=="
 }
