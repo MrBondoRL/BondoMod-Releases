@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "version": "0.1.60",
-  "minimumVersion": "0.1.60",
-  "required": true,
-  "publishedAt": "2026-07-30T19:05:18.1817436Z",
-  "notes": "# BondoMod 0.1.60 â€” Stability & Control\n\n- **Secured BondoMod Plus activations and replaced exposed unused codes**\n- **Improved Epic Games Name Spoofer startup and controller compatibility**\n- **Made Platform Display appear instantly while its key or controller button is held**\n- **Improved Xbox, PS4 and PS5 controller detection**\n- **Made Custom Match UI larger and restricted it to Casual, Ranked and Private Matches**\n- **Added Player Titles and Anthems to the Item Swapper and validated every swap category**\n- **Removed the unfinished Item Spawner completely**\n- **Simplified plugin layouts and added clearer Rocket League status messages**",
+  "version": "0.1.61",
+  "minimumVersion": "0.1.61",
+  "required": false,
+  "publishedAt": "2026-08-11T08:38:00.5990796Z",
+  "notes": "# BondoMod 0.1.61 â€” Polish & Reliability\n\n**New**\n\n- Cleaner pure-black design with persistent collapsible categories\n- Simplified Home and Settings pages with five supported languages\n- Completely replaced Item Swapper engine with faster thumbnails and wheel paints\n\n**Improved**\n\n- Safer Custom Ball, Decal, Boost Meter and Workshop Map activation\n- Faster MMR refresh, controller input and Platform Display response\n- More reliable Name Spoofer account detection\n- Larger Match UI that stays limited to real matches\n\n**Fixed**\n\n- Automatic rollback now prevents partial custom installations\n- Active custom content stays at the top and returns to Aâ€“Z after deactivation",
   "artifact": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.60/bondo-mod-0.1.60-x64.nsis.7z",
-    "fileName": "bondo-mod-0.1.60-x64.nsis.7z",
-    "size": 162443677,
-    "sha256": "8e8d0dc39099b6886e2999bac8cbcbda20bc55864666feb37b5070c75d48e5c6"
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.61/bondo-mod-0.1.61-x64.nsis.7z",
+    "fileName": "bondo-mod-0.1.61-x64.nsis.7z",
+    "size": 161088741,
+    "sha256": "745df591fc695f9f2c75f1e69dee956f55733add2eb7a8ee8b51a0e2dd5ac158"
   },
   "installer": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.60/BondoMod-Installer.exe",
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.61/BondoMod-Installer.exe",
     "fileName": "BondoMod-Installer.exe",
     "size": 41472,
-    "sha256": "f3adaaceee3244b6b386382551e7cc95eaeae34512b98dd57254730f8bd0792f"
+    "sha256": "1195f403d3a2dd4ef30eca9a79a04572f723c2e3eee85dba6d8c2b8c61eabc9f"
   },
   "setup": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.60/BondoMod-Setup-0.1.60.exe",
-    "fileName": "BondoMod-Setup-0.1.60.exe",
-    "size": 698111,
-    "sha256": "53d62dd415e5d247fe2d63e0c07999540fc511e76c8d7a9c7928f65eef016332"
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.61/BondoMod-Setup-0.1.61.exe",
+    "fileName": "BondoMod-Setup-0.1.61.exe",
+    "size": 698197,
+    "sha256": "06e5b5c665992adf6bad303f5a95652a70cee5a9cf2c8a6e3321f91d49587000"
   },
-  "signature": "X3T4gq+JWj9c4+9N2PlrzGgxw9A46lUOgB/Gcr25qFKz1ZL1vomOV/frTLiWXiCuOWkIYqpRsAszgm/mFixMAA=="
+  "signature": "/qBmYt4lwLYUfCsJ8U8sKAEs88tVrt2rCNpsIhPNKezeNbfORblHKjsH6fY/aDXL/UzS4b7qpzAQyIuvsSrjCw=="
 }
