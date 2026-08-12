@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "version": "0.1.67",
-  "minimumVersion": "0.1.67",
+  "version": "0.1.68",
+  "minimumVersion": "0.1.68",
   "required": false,
-  "publishedAt": "2026-08-12T11:24:27.0818633Z",
-  "notes": "# BondoMod 0.1.67 - Boost Swapper Compatibility\n\n**Fixed**\n\n- Fixes Boost item swaps on current Epic Games Rocket League packages.\n- Supports both legacy and padded encrypted UPK chunk tables.\n- Supports Boost swaps between different Rocket League content versions.\n- Restores Flamethrower, Standard, Gold Crush and Alpha Boost combinations.\n\nGoal Explosion behavior is unchanged in this release.",
+  "publishedAt": "2026-08-12T11:56:09.4985578Z",
+  "notes": "# BondoMod 0.1.68 - Custom Match UI and Balls\n\n**Fixed**\n\n- Enlarges the RLCS 2025 Match UI by 4% and moves it slightly lower.\n- Restores Custom Balls in standard Soccar matches.\n- Prevents outdated Custom Ball backups from overwriting updated Rocket League files.",
   "artifact": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.67/bondo-mod-0.1.67-x64.nsis.7z",
-    "fileName": "bondo-mod-0.1.67-x64.nsis.7z",
-    "size": 161077961,
-    "sha256": "ce648da5e22f6dd773e7ad7637ccb2d3d9a1a6461377028720f66cfe8bda7c02"
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.68/bondo-mod-0.1.68-x64.nsis.7z",
+    "fileName": "bondo-mod-0.1.68-x64.nsis.7z",
+    "size": 161067937,
+    "sha256": "88f745ad2089f76002af87e1983b5e713c3ad00d1dba13a98a07598502ac04b6"
   },
   "installer": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.67/BondoMod-Installer.exe",
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.68/BondoMod-Installer.exe",
     "fileName": "BondoMod-Installer.exe",
     "size": 41472,
-    "sha256": "dcb24a5cea54a36e9e4a0880e791dc82a7580f4d7181cd2cd292c439be030c92"
+    "sha256": "d61ce4332e913ad3f0bef2264d4b98b0716876329fa2e86ce51bda68fb8e469a"
   },
   "setup": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.67/BondoMod-Setup-0.1.67.exe",
-    "fileName": "BondoMod-Setup-0.1.67.exe",
-    "size": 698124,
-    "sha256": "cf0cb6d15b6062c704cef6682e6fe7351e1f4d2183d860720c762da79bd9c1a9"
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.68/BondoMod-Setup-0.1.68.exe",
+    "fileName": "BondoMod-Setup-0.1.68.exe",
+    "size": 698136,
+    "sha256": "a44c332b5b96560218941d32467f94087ceffd10d0cf237a2a8836680b972570"
   },
-  "signature": "v5Mz9QG58f1AvA9JU1AmJ+IdaTxq+41hGN2Fz/ywk88hiUvsTORQuH+pn1klb3L+U+2VDH1bKBxiAjAZ5KUqCg=="
+  "signature": "dzCUYsa/kj/jzpdfuxgdMvkuHEp0ixqxwTo2+DhFm3zc8RieCJnaY9WPFAQiYIce0WT3R1c4VLWSLxnMNoJTCQ=="
 }
