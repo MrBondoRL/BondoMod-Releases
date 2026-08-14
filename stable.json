@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "version": "0.1.69",
-  "minimumVersion": "0.1.69",
+  "version": "0.1.70",
+  "minimumVersion": "0.1.70",
   "required": false,
-  "publishedAt": "2026-08-14T11:54:59.3982413Z",
-  "notes": "# BondoMod 0.1.69 - Plugins and Reliability\n\n**Added**\n\n- Discord Rich Presence, Custom Quick Chat, Spotify hotkeys, and a Plus-only client-side Name Spoofer.\n- API-key-free MMR profiles and a broader Workshop map catalog.\n\n**Improved**\n\n- Custom Balls, Platform Display, Xbox controller visuals, and item thumbnails.",
+  "publishedAt": "2026-08-14T13:36:51.2483570Z",
+  "notes": "- Added title swapping with existing titles, custom text and HEX colors.\n- Fixed Platform Display positioning on scoreboard avatars.\n- Fixed Custom Quick Chat reliability.\n- Marked Name Spoofer as developing.",
   "artifact": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.69/bondo-mod-0.1.69-x64.nsis.7z",
-    "fileName": "bondo-mod-0.1.69-x64.nsis.7z",
-    "size": 162013555,
-    "sha256": "b889239613525e5b27ee5023ed3e1b8717c065785026e40c73eb092773f02f5d"
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.70/bondo-mod-0.1.70-x64.nsis.7z",
+    "fileName": "bondo-mod-0.1.70-x64.nsis.7z",
+    "size": 162026988,
+    "sha256": "c943b8f35246ca25b64be50e0e8f1c324accce46b089a99d571014546cd9daa4"
   },
   "installer": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.69/BondoMod-Installer.exe",
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.70/BondoMod-Installer.exe",
     "fileName": "BondoMod-Installer.exe",
     "size": 41472,
-    "sha256": "f341b4476d15520294c5be3d44319bd4018f85c11a48a9e2653ff8530e3e19f6"
+    "sha256": "5840e49583308482ec7a4933c96500c5d2abe2bb9d6d3acd6f65c8f0f84ad48a"
   },
   "setup": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.69/BondoMod-Setup-0.1.69.exe",
-    "fileName": "BondoMod-Setup-0.1.69.exe",
-    "size": 698187,
-    "sha256": "ddd83470a56206e7f3e4860eb9a5e2949eb0ac0271edd3fe82dbf6242227f617"
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.70/BondoMod-Setup-0.1.70.exe",
+    "fileName": "BondoMod-Setup-0.1.70.exe",
+    "size": 698126,
+    "sha256": "6c83b586545be0becf3a040e063fe7cc07796b1eb4d98fe2b93337d97b3c7cf1"
   },
-  "signature": "uXXkGpIUkeYGCHF54Ms2xcJjEevCqNFzHpxArt9qSTBNxmWZZS0qXHFufLILbBgm7ImSdxzB9drLFF63o7mmDw=="
+  "signature": "1IIN0lv1tVGEjHrStRR9XnS2XVQv75f/g2SSWOz71BA1354uoQlHYfF6Klb0ILKDnHlK5nk4GZFzQw4uZ97aBQ=="
 }
