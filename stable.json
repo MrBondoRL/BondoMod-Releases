@@ -4,25 +4,25 @@
   "version": "0.1.71",
   "minimumVersion": "0.1.71",
   "required": false,
-  "publishedAt": "2026-08-14T14:23:30.0976555Z",
+  "publishedAt": "2026-08-14T14:29:39.3837298Z",
   "notes": "- Fixed Custom Quick Chat input and paste timing.\n- Restored the classic centered Platform Display with player names.\n- Added crash-protected Player Anthem swapping with 333 catalog entries.\n- Added NEW badges for Titles and Player Anthems.\n- Restored unsafe legacy title caches to protect Online Play.",
   "artifact": {
     "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.71/bondo-mod-0.1.71-x64.nsis.7z",
     "fileName": "bondo-mod-0.1.71-x64.nsis.7z",
-    "size": 162025010,
-    "sha256": "39699aa3110cf21d4f583654cc32f4bfea27d5dc026a616df76b7756ba7910b0"
+    "size": 162027312,
+    "sha256": "d327111c927e5b8d0ff698c76740c99eefcfac44d11adfee24240708f4727093"
   },
   "installer": {
     "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.71/BondoMod-Installer.exe",
     "fileName": "BondoMod-Installer.exe",
     "size": 41472,
-    "sha256": "a06842191ff5bf0a240ba72ea74b0258fd06f4384efb1e347aaed6b89a8d15dd"
+    "sha256": "ca52d2997579fb1961157c03a6ff8d7c841cbd4b8d7977c944b9f61152cfe6fd"
   },
   "setup": {
     "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.71/BondoMod-Setup-0.1.71.exe",
     "fileName": "BondoMod-Setup-0.1.71.exe",
-    "size": 187215,
-    "sha256": "3fe44927c56fd0f129ec7ef236dbff2c89749adc5d52f06eacd06f0105aab255"
+    "size": 698123,
+    "sha256": "2e6e0a473359e307d7ed8f7a7fcf48ebaea120655266a5f972fdc89400f1c0b9"
   },
-  "signature": "abjf25P0sEG90WwcEYDGtLGHtOFN/o0SM3ib5jKMuCyeFbi2p1ioBSR0LaU7xc6pv5CIaYZzeZ1f+bm2mIfuCg=="
+  "signature": "3igkXhHra/9tnNeCWRfL5lcxf3pJWgOF6wuPDgPxOMLv4LuL4qSrVWwf0t8I164CZZloltPsp7oq92/sJ20CBg=="
 }
