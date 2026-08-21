@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "version": "0.1.71",
-  "minimumVersion": "0.1.71",
+  "version": "0.1.72",
+  "minimumVersion": "0.1.72",
   "required": false,
-  "publishedAt": "2026-08-14T14:29:39.3837298Z",
-  "notes": "- Fixed Custom Quick Chat input and paste timing.\n- Restored the classic centered Platform Display with player names.\n- Added crash-protected Player Anthem swapping with 333 catalog entries.\n- Added NEW badges for Titles and Player Anthems.\n- Restored unsafe legacy title caches to protect Online Play.",
+  "publishedAt": "2026-08-21T08:51:33.4617907Z",
+  "notes": "- Added verified colors for Car Bodies, Decals and Wheels.\n- Fixed controller input while Rocket League is focused.\n- Improved Custom Quick Chat and Spotify media keybinds.\n- Prevented blank update windows and unsafe swap reverts.\n- Simplified and reordered Item Swapper categories.",
   "artifact": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.71/bondo-mod-0.1.71-x64.nsis.7z",
-    "fileName": "bondo-mod-0.1.71-x64.nsis.7z",
-    "size": 162027312,
-    "sha256": "d327111c927e5b8d0ff698c76740c99eefcfac44d11adfee24240708f4727093"
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.72/bondo-mod-0.1.72-x64.nsis.7z",
+    "fileName": "bondo-mod-0.1.72-x64.nsis.7z",
+    "size": 162035885,
+    "sha256": "220161327b7e08843a4012582461a45d708e672fd1d0b59b186d1c948192bb66"
   },
   "installer": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.71/BondoMod-Installer.exe",
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.72/BondoMod-Installer.exe",
     "fileName": "BondoMod-Installer.exe",
     "size": 41472,
-    "sha256": "ca52d2997579fb1961157c03a6ff8d7c841cbd4b8d7977c944b9f61152cfe6fd"
+    "sha256": "f2d95e71e4ef14071c9c424c8a8ee4cc0b11ce9379a42c7ab4b292d568cd1aac"
   },
   "setup": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.71/BondoMod-Setup-0.1.71.exe",
-    "fileName": "BondoMod-Setup-0.1.71.exe",
-    "size": 698123,
-    "sha256": "2e6e0a473359e307d7ed8f7a7fcf48ebaea120655266a5f972fdc89400f1c0b9"
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.72/BondoMod-Setup-0.1.72.exe",
+    "fileName": "BondoMod-Setup-0.1.72.exe",
+    "size": 698118,
+    "sha256": "9c9935b8c1a9b829f65b921d7f9d69905cabb2a350f67444c006b0be8ba65bbe"
   },
-  "signature": "3igkXhHra/9tnNeCWRfL5lcxf3pJWgOF6wuPDgPxOMLv4LuL4qSrVWwf0t8I164CZZloltPsp7oq92/sJ20CBg=="
+  "signature": "uYFtb/UfPNO8E7o53PqHk+XrXzbMf0WZ09h9Ysp3bJGS3nTeO/1ipdLhGAkqUT481EvMr6MpgOD13Y0azTHWAA=="
 }
