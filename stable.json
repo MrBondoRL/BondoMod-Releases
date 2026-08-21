@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "version": "0.1.72",
-  "minimumVersion": "0.1.72",
+  "version": "0.1.73",
+  "minimumVersion": "0.1.73",
   "required": false,
-  "publishedAt": "2026-08-21T08:51:33.4617907Z",
-  "notes": "- Added verified colors for Car Bodies, Decals and Wheels.\n- Fixed controller input while Rocket League is focused.\n- Improved Custom Quick Chat and Spotify media keybinds.\n- Prevented blank update windows and unsafe swap reverts.\n- Simplified and reordered Item Swapper categories.",
+  "publishedAt": "2026-08-21T09:23:50.0859735Z",
+  "notes": "- Fixed the blank blue window that could appear when starting BondoMod.\n- Improved startup recovery and error diagnostics.\n- Verified the updater, download and installer handoff.",
   "artifact": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.72/bondo-mod-0.1.72-x64.nsis.7z",
-    "fileName": "bondo-mod-0.1.72-x64.nsis.7z",
-    "size": 162035885,
-    "sha256": "220161327b7e08843a4012582461a45d708e672fd1d0b59b186d1c948192bb66"
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.73/bondo-mod-0.1.73-x64.nsis.7z",
+    "fileName": "bondo-mod-0.1.73-x64.nsis.7z",
+    "size": 162029534,
+    "sha256": "5e66fa333de99a4c364375f591b55d521db419acde0ba8ef5df63e4d1a074f5d"
   },
   "installer": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.72/BondoMod-Installer.exe",
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.73/BondoMod-Installer.exe",
     "fileName": "BondoMod-Installer.exe",
     "size": 41472,
-    "sha256": "f2d95e71e4ef14071c9c424c8a8ee4cc0b11ce9379a42c7ab4b292d568cd1aac"
+    "sha256": "7395b93e53f360bb02cc651e050b8214f8a587521e2e55bdccb048dcecfd591e"
   },
   "setup": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.72/BondoMod-Setup-0.1.72.exe",
-    "fileName": "BondoMod-Setup-0.1.72.exe",
-    "size": 698118,
-    "sha256": "9c9935b8c1a9b829f65b921d7f9d69905cabb2a350f67444c006b0be8ba65bbe"
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.73/BondoMod-Setup-0.1.73.exe",
+    "fileName": "BondoMod-Setup-0.1.73.exe",
+    "size": 698127,
+    "sha256": "c574073aa97571147f9f347c4594914dee99de847b918e68b284f60720f00561"
   },
-  "signature": "uYFtb/UfPNO8E7o53PqHk+XrXzbMf0WZ09h9Ysp3bJGS3nTeO/1ipdLhGAkqUT481EvMr6MpgOD13Y0azTHWAA=="
+  "signature": "Fj0lS9nt/etN1/ZI8yr5hM9UHgYKhzscb6kNQMye6lTDRqMppW8MgL3CZJ7ZfMfgDBfJfByu494GcfCvyI9mCQ=="
 }
