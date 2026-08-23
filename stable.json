@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "version": "0.1.74",
-  "minimumVersion": "0.1.74",
+  "version": "0.1.75",
+  "minimumVersion": "0.1.75",
   "required": false,
-  "publishedAt": "2026-08-21T12:31:42.7911086Z",
-  "notes": "- Fixed painted Decal and Wheel swaps, including painted-material selection.\n- Fixed L1/R1 controller input detection and improved PlayStation button animations.\n- Fixed Custom Quick Chat and Spotify media keybinds while Rocket League is focused.\n- Improved swap validation and safe restore handling.",
+  "publishedAt": "2026-08-23T10:01:01.2911234Z",
+  "notes": "- Added selectable controller skins and custom HEX press colors.\n- Improved Platform Display controls and overlay reliability.\n- Added progress feedback for custom content activation.\n- Improved background startup, installer handoff, and update recovery.\n- Hardened Discord role-based Plus and developer access checks.",
   "artifact": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.74/bondo-mod-0.1.74-x64.nsis.7z",
-    "fileName": "bondo-mod-0.1.74-x64.nsis.7z",
-    "size": 162018812,
-    "sha256": "199762e5c863371d2ddc3f6a6298f58d535f9f072978aece6b4cd4a391bc61fe"
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.75/bondo-mod-0.1.75-x64.nsis.7z",
+    "fileName": "bondo-mod-0.1.75-x64.nsis.7z",
+    "size": 162607366,
+    "sha256": "b3c78a149091606a5afbb0c5f476ef8259179b75a212d2d8fe52a295bab6b57f"
   },
   "installer": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.74/BondoMod-Installer.exe",
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.75/BondoMod-Installer.exe",
     "fileName": "BondoMod-Installer.exe",
-    "size": 41472,
-    "sha256": "e10a1cb85d724991ff55ca03d5a48da28f753177a565603bda267843e6e3417a"
+    "size": 43008,
+    "sha256": "932afa7f5d92605c6f4303fcfe5341960495030a47ad80fc1a5310883d750442"
   },
   "setup": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.74/BondoMod-Setup-0.1.74.exe",
-    "fileName": "BondoMod-Setup-0.1.74.exe",
-    "size": 698121,
-    "sha256": "5d8595015b6e324706a00d1e44ccc1a55fbdbf9e6faf53843b3eed95cb628cfd"
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.75/BondoMod-Setup-0.1.75.exe",
+    "fileName": "BondoMod-Setup-0.1.75.exe",
+    "size": 698123,
+    "sha256": "65e5d4b69d5493b70d62b07eb79d4ed8825116519875ec4d3921d9f2905bbb3b"
   },
-  "signature": "R/T3aX68d0X1x9L7odNKpZzhwKioAZ79drAoZyVWVzu4cNHYjJPvlwQrOH6bfeMiO3uuM10GWHnjZS+UfQOSCg=="
+  "signature": "mob4ZiQ5gerKWOs1i7npw1qvOgdjMcFo7v61jpp7xSWruTyuG9QFjt5f1qFTJ27T1jUQDc5++ib+hKXzw8A4Aw=="
 }
