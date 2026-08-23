@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "version": "0.1.77",
-  "minimumVersion": "0.1.77",
+  "version": "0.1.78",
+  "minimumVersion": "0.1.78",
   "required": false,
-  "publishedAt": "2026-08-23T18:40:28.2758975Z",
-  "notes": "- Verhindert dauerhaft, dass nach einem Update ein leeres dunkles App-Fenster als erfolgreicher Start angezeigt wird.\n- Repariert veraltete Renderer-Caches nach Updates automatisch und startet die Oberfläche bei Bedarf selbstständig neu.\n- Zeigt als letzte Absicherung eine verständliche Reparaturansicht statt eines leeren Fensters.\n- Neue Updates werden vor der Veröffentlichung mit einem echten Starttest des fertig gepackten Builds geprüft.\n- Der Installer meldet ein Update erst dann als abgeschlossen, wenn die BondoMod-Oberfläche tatsächlich gerendert wurde.",
+  "publishedAt": "2026-08-23T19:26:14.2622842Z",
+  "notes": "- Fixed Custom Quick Chat so configured messages reliably open, type and send in Rocket League.\n- The keyboard and mouse overlay now works even when Rocket League is not running.\n- Custom Match UI now offers only the original RLCS 2025 and RLCS 2024 designs.",
   "artifact": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.77/bondo-mod-0.1.77-x64.nsis.7z",
-    "fileName": "bondo-mod-0.1.77-x64.nsis.7z",
-    "size": 175695262,
-    "sha256": "c02e4b8095731bc93efcf9b9eb753e11689c199acbd1385e57327904bc50f0c3"
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.78/bondo-mod-0.1.78-x64.nsis.7z",
+    "fileName": "bondo-mod-0.1.78-x64.nsis.7z",
+    "size": 162227503,
+    "sha256": "7e0391118b2edfb382d6612e847c7205da7e4bef7931f4722a4a026cb96fb054"
   },
   "installer": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.77/BondoMod-Installer.exe",
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.78/BondoMod-Installer.exe",
     "fileName": "BondoMod-Installer.exe",
     "size": 44032,
-    "sha256": "fcb5e0055455c277898afad1b48932904f65a7356dd1ebb9b412c03c8f79459e"
+    "sha256": "7398e9cb42990ecc6a55365b27b4cff8b496396f48b88452557bf78602db1f95"
   },
   "setup": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.77/BondoMod-Setup-0.1.77.exe",
-    "fileName": "BondoMod-Setup-0.1.77.exe",
-    "size": 698106,
-    "sha256": "ad372e39d6eb158fee228284fac74e62dc819be66dbdc7c333b0bd10c161dfab"
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.78/BondoMod-Setup-0.1.78.exe",
+    "fileName": "BondoMod-Setup-0.1.78.exe",
+    "size": 698128,
+    "sha256": "420c33e4256c1cb93de05f2d179b78abce974fd693aa3307735c9daaa795ff10"
   },
-  "signature": "PpP1KIWW3b2aDkdw5k1wsxSub4ehjd7+AJY0TxDqlB5xcK7iotxhgkmoFtoAIYzM+8avgQ32Kap5gdr94IAlCA=="
+  "signature": "sJkNLBy+ulraa3qYaiTDOqZGvjTeQJrX4NyG9kH85jwhHLWTQwUBmzl6N1PCaAf3bWDmaeMed30BsryBO4pGDQ=="
 }
