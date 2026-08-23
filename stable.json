@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "version": "0.1.75",
-  "minimumVersion": "0.1.75",
+  "version": "0.1.76",
+  "minimumVersion": "0.1.76",
   "required": false,
-  "publishedAt": "2026-08-23T10:01:01.2911234Z",
-  "notes": "- Added selectable controller skins and custom HEX press colors.\n- Improved Platform Display controls and overlay reliability.\n- Added progress feedback for custom content activation.\n- Improved background startup, installer handoff, and update recovery.\n- Hardened Discord role-based Plus and developer access checks.",
+  "publishedAt": "2026-08-23T18:00:19.8923882Z",
+  "notes": "- Hid technical Custom Decal and Item Swapper error details from normal users.\n- Added proportional controller trigger fills and independent controller skin colors.\n- Replaced Classic UHD with the supplied controller design and fixed intermittent overlay disappearance.\n- Added the supplied Classic KBM design as a selectable KBM Overlay option.\n- Moved Custom Match UI into its own plugin and added the supplied CustomUI designs.\n- Improved Custom Quick Chat reliability, Unicode support, and automatic input-helper recovery.\n- Added the BondoMod app icon to Discord Rich Presence.",
   "artifact": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.75/bondo-mod-0.1.75-x64.nsis.7z",
-    "fileName": "bondo-mod-0.1.75-x64.nsis.7z",
-    "size": 162607366,
-    "sha256": "b3c78a149091606a5afbb0c5f476ef8259179b75a212d2d8fe52a295bab6b57f"
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.76/bondo-mod-0.1.76-x64.nsis.7z",
+    "fileName": "bondo-mod-0.1.76-x64.nsis.7z",
+    "size": 175672155,
+    "sha256": "ddd055f1a4b89814c1574d8f23c0c4bbd3f68aa3bea92ed2f6164d58f8055705"
   },
   "installer": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.75/BondoMod-Installer.exe",
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.76/BondoMod-Installer.exe",
     "fileName": "BondoMod-Installer.exe",
     "size": 43008,
-    "sha256": "932afa7f5d92605c6f4303fcfe5341960495030a47ad80fc1a5310883d750442"
+    "sha256": "ef64a7ef37e74dbc0079c359882435b0a01174a82cf9b3b3a4a7884afe2dcc5d"
   },
   "setup": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.75/BondoMod-Setup-0.1.75.exe",
-    "fileName": "BondoMod-Setup-0.1.75.exe",
-    "size": 698123,
-    "sha256": "65e5d4b69d5493b70d62b07eb79d4ed8825116519875ec4d3921d9f2905bbb3b"
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.76/BondoMod-Setup-0.1.76.exe",
+    "fileName": "BondoMod-Setup-0.1.76.exe",
+    "size": 698126,
+    "sha256": "1f3ac2a4cdea4c87bf5f0ea9b121ff39677d2f9ed9b1de583b1647af31e69f26"
   },
-  "signature": "mob4ZiQ5gerKWOs1i7npw1qvOgdjMcFo7v61jpp7xSWruTyuG9QFjt5f1qFTJ27T1jUQDc5++ib+hKXzw8A4Aw=="
+  "signature": "JeFMluL1gGQZSo8Tlca67eH9yeCOrz8nccHyMKrNiS+p2EHIaTTG2lX7g36G4hHAm0Hqsz484KcDngp0qvQnDQ=="
 }
