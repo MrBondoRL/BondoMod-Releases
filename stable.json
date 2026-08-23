@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "version": "0.1.78",
-  "minimumVersion": "0.1.78",
+  "version": "0.1.79",
+  "minimumVersion": "0.1.79",
   "required": false,
-  "publishedAt": "2026-08-23T19:26:14.2622842Z",
-  "notes": "- Fixed Custom Quick Chat so configured messages reliably open, type and send in Rocket League.\n- The keyboard and mouse overlay now works even when Rocket League is not running.\n- Custom Match UI now offers only the original RLCS 2025 and RLCS 2024 designs.",
+  "publishedAt": "2026-08-23T20:18:35.4356288Z",
+  "notes": "- Added ordered 2- or 3-button controller sequences for Custom Quick Chat.\n- Controller skin colors now affect only the controller shell while buttons, sticks, D-pad and triggers keep their original design.",
   "artifact": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.78/bondo-mod-0.1.78-x64.nsis.7z",
-    "fileName": "bondo-mod-0.1.78-x64.nsis.7z",
-    "size": 162227503,
-    "sha256": "7e0391118b2edfb382d6612e847c7205da7e4bef7931f4722a4a026cb96fb054"
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.79/bondo-mod-0.1.79-x64.nsis.7z",
+    "fileName": "bondo-mod-0.1.79-x64.nsis.7z",
+    "size": 162219554,
+    "sha256": "24c72e1bd1f647f40d4e576953917c9f1fd140f66d1d6b5a275c1aed6f9a2474"
   },
   "installer": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.78/BondoMod-Installer.exe",
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.79/BondoMod-Installer.exe",
     "fileName": "BondoMod-Installer.exe",
     "size": 44032,
-    "sha256": "7398e9cb42990ecc6a55365b27b4cff8b496396f48b88452557bf78602db1f95"
+    "sha256": "83f3bea645e5efff62b4c58b05ab1ea96d99ada8d83e9221a0755fd4d5c6b133"
   },
   "setup": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.78/BondoMod-Setup-0.1.78.exe",
-    "fileName": "BondoMod-Setup-0.1.78.exe",
-    "size": 698128,
-    "sha256": "420c33e4256c1cb93de05f2d179b78abce974fd693aa3307735c9daaa795ff10"
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.79/BondoMod-Setup-0.1.79.exe",
+    "fileName": "BondoMod-Setup-0.1.79.exe",
+    "size": 698187,
+    "sha256": "ee2fbd334790eb7d8fee4e45002d12881f2ffef80b9c259080cf045e3b0caa86"
   },
-  "signature": "sJkNLBy+ulraa3qYaiTDOqZGvjTeQJrX4NyG9kH85jwhHLWTQwUBmzl6N1PCaAf3bWDmaeMed30BsryBO4pGDQ=="
+  "signature": "G6O2IM4oUpYKHZjXSybs1hlZB9S/ZiongHx1jVUm/zPqbkME7DcFTQJnZlB3NwK4/etzwGVQzEOhagNTts0FAQ=="
 }
