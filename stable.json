@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "version": "0.1.80",
-  "minimumVersion": "0.1.80",
+  "version": "0.1.81",
+  "minimumVersion": "0.1.81",
   "required": false,
-  "publishedAt": "2026-08-25T09:38:21.6829998Z",
-  "notes": "## Name Spoofer is now free\n\n- Name Spoofer is available to every BondoMod user—BondoMod Plus is no longer required.\n- Simplified Name Spoofer controls with Epic-name autofill or manual name entry.\n- Activated names remain armed until manually deactivated and restore automatically in the hidden Windows background process after a PC restart.\n- Added safe Epic account/name detection, owned-certificate cleanup, proxy crash recovery, and an in-game verified Epic identity replacement.\n- Added a one-time in-app announcement for the free Name Spoofer release.\n- Fixed DualSense Bluetooth input, PS4/PS5 detection through controller mappers, and Platform Overlay controller instability.\n- Spotify keybinds now support PlayStation and Xbox controllers, change volume by exactly 5%, and reliably control next/previous track.\n- Removed the Titles section from Item Swapper.",
+  "publishedAt": "2026-08-25T10:17:56.3575761Z",
+  "notes": "## Name Spoofer hotfix\n\n- Fixed Name Spoofer activation on affected Windows PCs.\n- Rebuilt the Name Spoofer page with a clean two-field layout, Epic ID autodetection and a full activation loading screen.\n- Removed technical error details from the Name Spoofer interface.\n- Fixed popup close buttons so they remain in the top-right corner.",
   "artifact": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.80/bondo-mod-0.1.80-x64.nsis.7z",
-    "fileName": "bondo-mod-0.1.80-x64.nsis.7z",
-    "size": 162241451,
-    "sha256": "b5344b3aebab3542fe226f8187dace440317ed9bcdb19a1ff7b7abaeb04b5824"
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.81/bondo-mod-0.1.81-x64.nsis.7z",
+    "fileName": "bondo-mod-0.1.81-x64.nsis.7z",
+    "size": 162241658,
+    "sha256": "580712eabe7456f2299d88e1b9c97f645bbea46c48e68ab31e12f5922efd1169"
   },
   "installer": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.80/BondoMod-Installer.exe",
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.81/BondoMod-Installer.exe",
     "fileName": "BondoMod-Installer.exe",
     "size": 44032,
-    "sha256": "fecd80834c35fad49833fcf8807f67feaf64d301853cd55a717ce503e06fd1e0"
+    "sha256": "a050cc9c36ab7ff54221ffd440d6d131c2b303d9ea3f6d0996fd1e634e0fbad6"
   },
   "setup": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.80/BondoMod-Setup-0.1.80.exe",
-    "fileName": "BondoMod-Setup-0.1.80.exe",
-    "size": 698190,
-    "sha256": "b02c1aa75c3591708bc58412d4d4a34adccaf6983658499a66454c0c00ee18c3"
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.81/BondoMod-Setup-0.1.81.exe",
+    "fileName": "BondoMod-Setup-0.1.81.exe",
+    "size": 698178,
+    "sha256": "f9c9fc2ee7ef1adc5bdde74b5a88381d1ab45079ef5edf8c49bb17efe3074ba8"
   },
-  "signature": "wA6g787mrcgvBZjzxWtCy9KGuLvtBop12Srb1QOokZyX62C1CJxQBAWg5jrLjk2Uu0qfH+N5DVV60rY/preQBQ=="
+  "signature": "ELf4jSOotNDOn+kvWoGSbZ+kMhKY22AeQ/pVLKPxjBfhCwyaakDGjkaXXNsphfz/MLxhWY3mg+yx5zfFiEyCAQ=="
 }
