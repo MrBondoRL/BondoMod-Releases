@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "version": "0.1.83",
-  "minimumVersion": "0.1.83",
+  "version": "0.1.84",
+  "minimumVersion": "0.1.84",
   "required": false,
-  "publishedAt": "2026-08-25T11:20:58.8822564Z",
-  "notes": "## Name Spoofer certificate reliability\n\n- Fixed the remaining Name Spoofer activation failure caused by Windows certificate trust timing and hidden confirmation prompts.\n- The installer now prepares one persistent BondoMod certificate while it is already elevated, so manual activation and Windows background startup do not need another prompt.\n- Name Spoofer now verifies the exact installed certificate before activating and keeps errors free of technical details.\n- Restricted HTTPS interception to the exact Epic identity host used by Rocket League.",
+  "publishedAt": "2026-08-25T14:59:38.4729833Z",
+  "notes": "## Rank Changer and interface update\n\n- Added Rank Changer with separate local rank settings per playlist, automatic MMR defaults, individual activation and background persistence.\n- Fixed the Rank Changer crash by preserving Rocket League's original encrypted package layout and verifying every patched file before installation.\n- Added controller combinations for Custom Quick Chat and improved PlayStation and Xbox controller detection across overlays.\n- Improved Controller, KBM, Spotify and Platform overlays, including reliable background visibility and 5% media-volume steps.\n- Refined the plugin order and icons, including the monochrome Supersonic Legend Rank Changer icon.\n- Simplified BondoMod Plus with a direct Custom App UI shortcut and a cleaner unlocked-features view.\n- Simplified activation buttons, loading states and user-facing error messages throughout the app.",
   "artifact": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.83/bondo-mod-0.1.83-x64.nsis.7z",
-    "fileName": "bondo-mod-0.1.83-x64.nsis.7z",
-    "size": 162251508,
-    "sha256": "342f62d99807e19ea98a901f2a90c04061e8bc75564bd250b8a6dd03f6c368ed"
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.84/bondo-mod-0.1.84-x64.nsis.7z",
+    "fileName": "bondo-mod-0.1.84-x64.nsis.7z",
+    "size": 162355332,
+    "sha256": "033db743f6386d5f88d7eb322df8471767bed08de63cd73858c8d034ab388cbb"
   },
   "installer": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.83/BondoMod-Installer.exe",
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.84/BondoMod-Installer.exe",
     "fileName": "BondoMod-Installer.exe",
     "size": 44032,
-    "sha256": "de4593a7cd27248392bfbe6d865b75f23f2112d6c2bc68452304362506fd04f3"
+    "sha256": "d560ea9d7218fd44b6704bcb67cb82ffe1614c877974678d5456d6fcc42695fe"
   },
   "setup": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.83/BondoMod-Setup-0.1.83.exe",
-    "fileName": "BondoMod-Setup-0.1.83.exe",
-    "size": 698561,
-    "sha256": "ce83861781bc10be63aa69468fe1bf190dc421525d596fccd5012787984526ee"
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.84/BondoMod-Setup-0.1.84.exe",
+    "fileName": "BondoMod-Setup-0.1.84.exe",
+    "size": 698562,
+    "sha256": "861b43f4a3a618cbd6de019c0c59019ed317eeafa21dce63ae82e2c830cc432c"
   },
-  "signature": "TdDQkChWXF+5Sh8/A/t15pHImBSm1KmRELW9Jsibekw96d/W9u72lvMWpZbPI57dpYqGcL+avtxrDD+4fEeQDA=="
+  "signature": "lvsMiClh8zSiN7VsEVGyrEtst+o0SiOYPT1yJ9bgBTgfFy+1WEerdW43raIB9LM0blVicZLLHG0tUrRG4zlJBg=="
 }
