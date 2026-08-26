@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "version": "0.1.85",
-  "minimumVersion": "0.1.85",
+  "version": "0.1.86",
+  "minimumVersion": "0.1.86",
   "required": true,
-  "publishedAt": "2026-08-26T08:28:15.2178196Z",
-  "notes": "## Flex Mechs and general bug fixes\n\n- Added the Plus-only Flex Mechs plugin with Horse Dash and Speed Flip, configurable 1–3 input keybinds, and separate mechanic settings.\n- Restricted Flex Mechs to verified Training, LAN, and Private Match sessions; Casual, Ranked, Tournament, Workshop, and unknown sessions remain blocked.\n- Renamed Name Spoofer to Name Changer while keeping existing saved settings compatible.\n- Fixed Item Swapper deactivation and Platform Display activation.\n- Improved Controller and KBM overlay designs, skin/press HEX colors, and input reliability.\n- Fixed Alpha Boost custom colors and removed custom HEX car colors.\n- Added Custom Shader to BondoMod Plus and improved real activation progress displays.\n- Refined the Rank Changer icon and reduced the BondoMod Plus highlight.",
+  "publishedAt": "2026-08-26T09:32:52.8006721Z",
+  "notes": "## Input and Flex Mechs bug fixes\n\n- Fixed Spotify, Quick Chat, and other plugin keybinds blocking normal keyboard input in Windows.\n- Keyboard and mouse Spotify keybinds now react only while Rocket League is focused; controller media keybinds remain available globally.\n- Restricted the BondoMod app show/hide keybind to F1â€“F24 so letters and Windows keys are never captured globally.\n- Flex Mechs can now be activated only while Rocket League is running, without requiring the game to be focused.\n- Flex Mechs now deactivates automatically and saves the disabled state when Rocket League closes.\n- Fixed Flex Mechs controls remaining held after releasing the mechanic keybind or deactivating the plugin.\n- Added Rocket League KBM control detection without allowing missing values to overwrite saved controls.\n- KBM control fields now record the next keyboard key or mouse button instead of requiring typed names.\n- Added mouse-button support for Flex Mechs action controls.",
   "artifact": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.85/bondo-mod-0.1.85-x64.nsis.7z",
-    "fileName": "bondo-mod-0.1.85-x64.nsis.7z",
-    "size": 162369355,
-    "sha256": "ce0a2c4346448d3ccdd37394bae06d2005a9f8f255f349e98a003617140edd53"
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.86/bondo-mod-0.1.86-x64.nsis.7z",
+    "fileName": "bondo-mod-0.1.86-x64.nsis.7z",
+    "size": 162379109,
+    "sha256": "503d3357e9ecda53fe74de8848b86bf77f6521f265a77f6cd9a9fec79350f913"
   },
   "installer": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.85/BondoMod-Installer.exe",
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.86/BondoMod-Installer.exe",
     "fileName": "BondoMod-Installer.exe",
     "size": 44032,
-    "sha256": "b3b70b7e854db33c5785e544d75e1fdb36bf9094767fe4e342a6d0e73ec76081"
+    "sha256": "1a830fd421b8be40daeaed5ff3c0f9518cf425957e8694fb74b0d461f20c3a5b"
   },
   "setup": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.85/BondoMod-Setup-0.1.85.exe",
-    "fileName": "BondoMod-Setup-0.1.85.exe",
-    "size": 698655,
-    "sha256": "aeeb77e21fe0ae1ac3928ebc498a3910f2ddc8a4a2f60a3dfe5d98cd86b8b77a"
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.86/BondoMod-Setup-0.1.86.exe",
+    "fileName": "BondoMod-Setup-0.1.86.exe",
+    "size": 698645,
+    "sha256": "478d4d77510b81a6d14d11c14e95182be85cbcffb88f9d4e5a383fd10c49b7ec"
   },
-  "signature": "vDXpYIQqcZIPzA+B/J5NK8RpnFAPOvWDgf059+sgvSv6YkN+n9TrTtEPmmUNKA8Ed5ghshM1acCmnEjPYtcMBQ=="
+  "signature": "vQbJD8E3Kq3FnVlbWBcKzCasXHVHBHnoLbDVt5fFJbIRB8I0pwk8jPGpMrTb3E9LCp/fN8CAmJE3ODge5K3xBQ=="
 }
