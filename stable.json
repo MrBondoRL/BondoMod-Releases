@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "version": "0.1.86",
-  "minimumVersion": "0.1.86",
-  "required": true,
-  "publishedAt": "2026-08-26T09:32:52.8006721Z",
-  "notes": "## Input and Flex Mechs bug fixes\n\n- Fixed Spotify, Quick Chat, and other plugin keybinds blocking normal keyboard input in Windows.\n- Keyboard and mouse Spotify keybinds now react only while Rocket League is focused; controller media keybinds remain available globally.\n- Restricted the BondoMod app show/hide keybind to F1â€“F24 so letters and Windows keys are never captured globally.\n- Flex Mechs can now be activated only while Rocket League is running, without requiring the game to be focused.\n- Flex Mechs now deactivates automatically and saves the disabled state when Rocket League closes.\n- Fixed Flex Mechs controls remaining held after releasing the mechanic keybind or deactivating the plugin.\n- Added Rocket League KBM control detection without allowing missing values to overwrite saved controls.\n- KBM control fields now record the next keyboard key or mouse button instead of requiring typed names.\n- Added mouse-button support for Flex Mechs action controls.",
+  "version": "0.1.87",
+  "minimumVersion": "0.1.87",
+  "required": false,
+  "publishedAt": "2026-08-26T13:45:07.5823883Z",
+  "notes": "## Flex Mechs and Item Swapper reliability\n\n- Flex Mechs is now ready whenever Rocket League is running, regardless of which window is focused.\n- Added a clear Horse Dash activation warning for Casual and Ranked use while keeping Training, Private Match, and LAN use available.\n- Improved Horse Dash timing so long sequences no longer accumulate execution drift or fail after several seconds.\n- Brief controller polling gaps no longer interrupt an active Horse Dash.\n- Item swaps can now be applied, activated, deactivated, reverted, and removed while Rocket League is running, including automatic retries during short package-file locks.",
   "artifact": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.86/bondo-mod-0.1.86-x64.nsis.7z",
-    "fileName": "bondo-mod-0.1.86-x64.nsis.7z",
-    "size": 162379109,
-    "sha256": "503d3357e9ecda53fe74de8848b86bf77f6521f265a77f6cd9a9fec79350f913"
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.87/bondo-mod-0.1.87-x64.nsis.7z",
+    "fileName": "bondo-mod-0.1.87-x64.nsis.7z",
+    "size": 162381661,
+    "sha256": "a445a5170223ef7b2a4481b5eb8e118b2bd21dc0dfdd8e1524a9ba8464a35ba6"
   },
   "installer": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.86/BondoMod-Installer.exe",
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.87/BondoMod-Installer.exe",
     "fileName": "BondoMod-Installer.exe",
     "size": 44032,
-    "sha256": "1a830fd421b8be40daeaed5ff3c0f9518cf425957e8694fb74b0d461f20c3a5b"
+    "sha256": "7982001e9b7eef998a03a83247cd1919fed6d499256eedf728b22d984e084df4"
   },
   "setup": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.86/BondoMod-Setup-0.1.86.exe",
-    "fileName": "BondoMod-Setup-0.1.86.exe",
-    "size": 698645,
-    "sha256": "478d4d77510b81a6d14d11c14e95182be85cbcffb88f9d4e5a383fd10c49b7ec"
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.87/BondoMod-Setup-0.1.87.exe",
+    "fileName": "BondoMod-Setup-0.1.87.exe",
+    "size": 698649,
+    "sha256": "003b943677c76fa634a66604a7d088f7914fd77815d740ac8b95177e498cd997"
   },
-  "signature": "vQbJD8E3Kq3FnVlbWBcKzCasXHVHBHnoLbDVt5fFJbIRB8I0pwk8jPGpMrTb3E9LCp/fN8CAmJE3ODge5K3xBQ=="
+  "signature": "7YYUYKkPUIG7H0rBriExAOqgJNNxsh+RxpuBrSUwdPdJkJCHmEuGV0j206TMzoVRLmv/kBp7dDC0FT18Iw0+CQ=="
 }
