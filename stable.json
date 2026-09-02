@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "version": "0.1.89",
-  "minimumVersion": "0.1.89",
+  "version": "0.1.90",
+  "minimumVersion": "0.1.90",
   "required": false,
-  "publishedAt": "2026-08-28T15:55:40.3809071Z",
-  "notes": "## Custom Match UI and Flex Mechs update\n\n- Added saved X/Y position and scale controls for the Custom Match UI, with the current layout retained as the default.\n- Matched Horse Dash direction, jump, release, and recovery timing to Umbreon's repeated execution.\n- Improved Flex Mechs safety-lease reliability during Rocket League log reads.\n- Fixed Rank Changer recovery after interrupted or concurrent package updates.\n- Fixed the broken BondoMod image in Discord Rich Presence by moving it to a permanent public asset URL.",
+  "publishedAt": "2026-09-02T15:38:50.2869241Z",
+  "notes": "## New plugins and Item Spawn update\n\n- Added Item Spawn with a fast in-game menu, full item catalog, multi-select and persistent item management.\n- Added Steam and Epic support for Item Spawn and the rebuilt Title Swapper.\n- Added Game Sounds for goals, saves, crossbars and demolitions, including previews and reliable event detection.\n- Added improved Workshop Map browsing with Most Downloaded, Newest, Top Rated and Downloaded filters.\n- Added downloadable catalogs and ZIP importing for Custom Decals, Boost Meters and Balls.\n- Added Workshop Rooms with hosting, joining and an in-app tutorial.\n- Improved overlay reliability and fixed the blank blue development window.",
   "artifact": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.89/bondo-mod-0.1.89-x64.nsis.7z",
-    "fileName": "bondo-mod-0.1.89-x64.nsis.7z",
-    "size": 162394123,
-    "sha256": "d693fac6b9e882ae9981f68960511e9e879a32809025671c4a8f3d8dee509ee1"
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.90/bondo-mod-0.1.90-x64.nsis.7z",
+    "fileName": "bondo-mod-0.1.90-x64.nsis.7z",
+    "size": 207402989,
+    "sha256": "38066b84fc090158715a86990e3a7330c8c95998952e54c685a475e510bb987d"
   },
   "installer": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.89/BondoMod-Installer.exe",
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.90/BondoMod-Installer.exe",
     "fileName": "BondoMod-Installer.exe",
     "size": 44032,
-    "sha256": "9dd386c9e43ff426545a2b991b0901a97a55c44757076d2b4cb63b52d81834f9"
+    "sha256": "ce88d105e4d4f5da1cf12350d8f38241ec498199618f3afe2a8c6486f3fe795d"
   },
   "setup": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.89/BondoMod-Setup-0.1.89.exe",
-    "fileName": "BondoMod-Setup-0.1.89.exe",
-    "size": 698645,
-    "sha256": "c07edecbc43f08aba77d5bb7f5b0db49d0a32c2b81526e94a2843468025109a5"
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.90/BondoMod-Setup-0.1.90.exe",
+    "fileName": "BondoMod-Setup-0.1.90.exe",
+    "size": 698648,
+    "sha256": "117bfb09dc435943dc83567fa0f4030aa788e43bcdebf23c459607246d1129cf"
   },
-  "signature": "X3AElHdvsV8mi6GZDUC96jBmsd765d5xTMoY+3C2xFIFuG48N9vNns52Hv/j3PYqr7CW3RNtMRWaJAAHqANCDQ=="
+  "signature": "xFcsbU6FNwERLVu3sHgNFFN6LjtXONMMet93OCdrT0Gsm2qlhpiJvalv8dfzlDfz1K8nBA8IQE9zsvOP0pJtDQ=="
 }
