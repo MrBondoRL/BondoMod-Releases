@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "version": "0.1.90",
-  "minimumVersion": "0.1.90",
+  "version": "0.1.91",
+  "minimumVersion": "0.1.91",
   "required": false,
-  "publishedAt": "2026-09-02T15:38:50.2869241Z",
-  "notes": "## New plugins and Item Spawn update\n\n- Added Item Spawn with a fast in-game menu, full item catalog, multi-select and persistent item management.\n- Added Steam and Epic support for Item Spawn and the rebuilt Title Swapper.\n- Added Game Sounds for goals, saves, crossbars and demolitions, including previews and reliable event detection.\n- Added improved Workshop Map browsing with Most Downloaded, Newest, Top Rated and Downloaded filters.\n- Added downloadable catalogs and ZIP importing for Custom Decals, Boost Meters and Balls.\n- Added Workshop Rooms with hosting, joining and an in-app tutorial.\n- Improved overlay reliability and fixed the blank blue development window.",
+  "publishedAt": "2026-09-02T16:03:48.7767722Z",
+  "notes": "## Windows startup hotfix\n\n- Fixed the blue screen that could appear after installing BondoMod 0.1.90.\n- Fixed elevated Chromium renderers failing to start in the packaged Windows app.\n- Improved the packaged renderer verification used before publishing updates.",
   "artifact": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.90/bondo-mod-0.1.90-x64.nsis.7z",
-    "fileName": "bondo-mod-0.1.90-x64.nsis.7z",
-    "size": 207402989,
-    "sha256": "38066b84fc090158715a86990e3a7330c8c95998952e54c685a475e510bb987d"
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.91/bondo-mod-0.1.91-x64.nsis.7z",
+    "fileName": "bondo-mod-0.1.91-x64.nsis.7z",
+    "size": 207413911,
+    "sha256": "49ded78dabf52e89e5999557ada96c3d960ac9a61508b90cb30eea2d8971de3b"
   },
   "installer": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.90/BondoMod-Installer.exe",
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.91/BondoMod-Installer.exe",
     "fileName": "BondoMod-Installer.exe",
     "size": 44032,
-    "sha256": "ce88d105e4d4f5da1cf12350d8f38241ec498199618f3afe2a8c6486f3fe795d"
+    "sha256": "faa8e7ef4c01909fe603be68d2b6cc769418af76dd267684e67a79aa04346fd1"
   },
   "setup": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.90/BondoMod-Setup-0.1.90.exe",
-    "fileName": "BondoMod-Setup-0.1.90.exe",
-    "size": 698648,
-    "sha256": "117bfb09dc435943dc83567fa0f4030aa788e43bcdebf23c459607246d1129cf"
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.91/BondoMod-Setup-0.1.91.exe",
+    "fileName": "BondoMod-Setup-0.1.91.exe",
+    "size": 698553,
+    "sha256": "a894f2905613e5d0a18a0fcc5ffdbd9e9c416017b50157df73c1e597cc610c97"
   },
-  "signature": "xFcsbU6FNwERLVu3sHgNFFN6LjtXONMMet93OCdrT0Gsm2qlhpiJvalv8dfzlDfz1K8nBA8IQE9zsvOP0pJtDQ=="
+  "signature": "AgPjRHikD6ne0PGRFIuqPYnL3U4iqtfOSgs3EUCQce50NCEkboutfT6MvwyARF7nCL00BJZZBDzyzNA9i23RAA=="
 }
