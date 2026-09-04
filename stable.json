@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "version": "0.1.91",
-  "minimumVersion": "0.1.91",
+  "version": "0.1.93",
+  "minimumVersion": "0.1.93",
   "required": false,
-  "publishedAt": "2026-09-02T16:03:48.7767722Z",
-  "notes": "## Windows startup hotfix\n\n- Fixed the blue screen that could appear after installing BondoMod 0.1.90.\n- Fixed elevated Chromium renderers failing to start in the packaged Windows app.\n- Improved the packaged renderer verification used before publishing updates.",
+  "publishedAt": "2026-09-04T18:08:59.4697301Z",
+  "notes": "MAJOR UPDATE\n\n- Added the BondoSpawner with its searchable 8,955-item catalog, categories, thumbnails, multi-selection and configurable global keybind.\n- Item Spawn now uses the verified restart workflow: select items, confirm, and BondoMod restarts the selected Steam or Epic Games version automatically.\n- Prepared items persist across BondoMod and PC restarts and can be managed from the main app.\n- Reworked Titles around the reliable close, apply, then launch workflow and added the Item Spawn handoff after a title is loaded.\n- Restricted temporary Rocket League routing to the game startup window and automatically restores hosts, DNS and proxy settings after success, timeout, shutdown or failure.\n- Fixed repeated Game Sounds playback by deduplicating variant goal, replay and score-update events.\n- Kept sound preview, importing and category folders available directly in Game Sounds.\n- Marked the MMR Overlay as under maintenance and prevents activation while its public provider is being reworked.\n- Added startup and packaged-renderer checks so broken or blank application builds cannot be published.\n- Verified FPS, Ball Speed, RL Timer, background mode, overlays, custom content, Item Swapper, Titles and update recovery in the release test suite.",
   "artifact": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.91/bondo-mod-0.1.91-x64.nsis.7z",
-    "fileName": "bondo-mod-0.1.91-x64.nsis.7z",
-    "size": 207413911,
-    "sha256": "49ded78dabf52e89e5999557ada96c3d960ac9a61508b90cb30eea2d8971de3b"
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.93/bondo-mod-0.1.93-x64.nsis.7z",
+    "fileName": "bondo-mod-0.1.93-x64.nsis.7z",
+    "size": 207377260,
+    "sha256": "288844be628b846f9cbca09e27f54417d80aad9d0b7269bd1a419922bcb139ee"
   },
   "installer": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.91/BondoMod-Installer.exe",
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.93/BondoMod-Installer.exe",
     "fileName": "BondoMod-Installer.exe",
     "size": 44032,
-    "sha256": "faa8e7ef4c01909fe603be68d2b6cc769418af76dd267684e67a79aa04346fd1"
+    "sha256": "b346833d0ea6b41cf7253718a64634a029327cea1ac74fd2a1df68499de1e144"
   },
   "setup": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.91/BondoMod-Setup-0.1.91.exe",
-    "fileName": "BondoMod-Setup-0.1.91.exe",
-    "size": 698553,
-    "sha256": "a894f2905613e5d0a18a0fcc5ffdbd9e9c416017b50157df73c1e597cc610c97"
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.93/BondoMod-Setup-0.1.93.exe",
+    "fileName": "BondoMod-Setup-0.1.93.exe",
+    "size": 698673,
+    "sha256": "daf8ab1b58eec72b735ab7bc7925d13d826909e5cd2fc1d71b80c8bf088145bf"
   },
-  "signature": "AgPjRHikD6ne0PGRFIuqPYnL3U4iqtfOSgs3EUCQce50NCEkboutfT6MvwyARF7nCL00BJZZBDzyzNA9i23RAA=="
+  "signature": "YXXVipE4H9z5BaVftQtwsAnbYVFzKg8NtkP84lwUfbD5QkxBRHJKCF2sWNvdvjoJwk5jKiMNKeP39hELrx2UAQ=="
 }
