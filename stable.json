@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "version": "0.1.93",
-  "minimumVersion": "0.1.93",
+  "version": "0.1.94",
+  "minimumVersion": "0.1.94",
   "required": false,
-  "publishedAt": "2026-09-04T18:08:59.4697301Z",
-  "notes": "MAJOR UPDATE\n\n- Added the BondoSpawner with its searchable 8,955-item catalog, categories, thumbnails, multi-selection and configurable global keybind.\n- Item Spawn now uses the verified restart workflow: select items, confirm, and BondoMod restarts the selected Steam or Epic Games version automatically.\n- Prepared items persist across BondoMod and PC restarts and can be managed from the main app.\n- Reworked Titles around the reliable close, apply, then launch workflow and added the Item Spawn handoff after a title is loaded.\n- Restricted temporary Rocket League routing to the game startup window and automatically restores hosts, DNS and proxy settings after success, timeout, shutdown or failure.\n- Fixed repeated Game Sounds playback by deduplicating variant goal, replay and score-update events.\n- Kept sound preview, importing and category folders available directly in Game Sounds.\n- Marked the MMR Overlay as under maintenance and prevents activation while its public provider is being reworked.\n- Added startup and packaged-renderer checks so broken or blank application builds cannot be published.\n- Verified FPS, Ball Speed, RL Timer, background mode, overlays, custom content, Item Swapper, Titles and update recovery in the release test suite.",
+  "publishedAt": "2026-09-06T15:57:47.4440894Z",
+  "notes": "BUG FIX UPDATE\n\n- Fixed Titles and Name Changer working together, and preserved the Title state when Item Spawn takes over.\n- Fixed Name Changer applying the selected name in Rocket League and corrected its activation status.\n- Fixed Workshop downloads failing the security check at 100%.\n- Enabled Item Swapper changes while Rocket League is running and made Workshop map replacement safer.\n- Improved shader activation, runtime shutdown and startup recovery.",
   "artifact": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.93/bondo-mod-0.1.93-x64.nsis.7z",
-    "fileName": "bondo-mod-0.1.93-x64.nsis.7z",
-    "size": 207377260,
-    "sha256": "288844be628b846f9cbca09e27f54417d80aad9d0b7269bd1a419922bcb139ee"
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.94/bondo-mod-0.1.94-x64.nsis.7z",
+    "fileName": "bondo-mod-0.1.94-x64.nsis.7z",
+    "size": 207395186,
+    "sha256": "553c44b03a331993bc1af591c9caa56b4f92ac32bd3b78d2f56529ed62225c0d"
   },
   "installer": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.93/BondoMod-Installer.exe",
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.94/BondoMod-Installer.exe",
     "fileName": "BondoMod-Installer.exe",
     "size": 44032,
-    "sha256": "b346833d0ea6b41cf7253718a64634a029327cea1ac74fd2a1df68499de1e144"
+    "sha256": "476c992fed7ba650dcb6e6a5083ca2c746ba5b18ba5fa02db2288ab300e4ce2f"
   },
   "setup": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.93/BondoMod-Setup-0.1.93.exe",
-    "fileName": "BondoMod-Setup-0.1.93.exe",
-    "size": 698673,
-    "sha256": "daf8ab1b58eec72b735ab7bc7925d13d826909e5cd2fc1d71b80c8bf088145bf"
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.94/BondoMod-Setup-0.1.94.exe",
+    "fileName": "BondoMod-Setup-0.1.94.exe",
+    "size": 698668,
+    "sha256": "c9a0c8082ef2dfeb54f094b5c6b8896cd2b1842fdde6c031aa4a845595256d72"
   },
-  "signature": "YXXVipE4H9z5BaVftQtwsAnbYVFzKg8NtkP84lwUfbD5QkxBRHJKCF2sWNvdvjoJwk5jKiMNKeP39hELrx2UAQ=="
+  "signature": "1N6JZm0ofTlFUl7T0/b+9ts7gvVwYj9KRLyK3+qtm0T1ytczy2VY0BFZnSqfGOHLMecdsLhNsx4lFL6Tul/bAA=="
 }
