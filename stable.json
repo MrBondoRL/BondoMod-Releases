@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "version": "0.1.94",
-  "minimumVersion": "0.1.94",
+  "version": "0.1.95",
+  "minimumVersion": "0.1.95",
   "required": false,
-  "publishedAt": "2026-09-06T15:57:47.4440894Z",
-  "notes": "BUG FIX UPDATE\n\n- Fixed Titles and Name Changer working together, and preserved the Title state when Item Spawn takes over.\n- Fixed Name Changer applying the selected name in Rocket League and corrected its activation status.\n- Fixed Workshop downloads failing the security check at 100%.\n- Enabled Item Swapper changes while Rocket League is running and made Workshop map replacement safer.\n- Improved shader activation, runtime shutdown and startup recovery.",
+  "publishedAt": "2026-09-12T20:34:30.7707026Z",
+  "notes": "LIVE ITEM SPAWN UPDATE\n\n- Added direct live item spawning while Rocket League is already running, with no game restart required.\n- Kept equipped spawned vehicle items active when entering Casual, Ranked, Private and tournament matches and after match respawns.\n- Fixed private-match and other reservation variants so the live loadout handoff works independently of the online mode.\n- Reworked BondoSpawner with searchable categories, selection checkmarks, automatic selection clearing and per-item paint choices.\n- Fixed Item Spawn, Titles and Name Changer sharing the same network runtime without blocking one another.\n- Kept Item Swapper changes available while Rocket League is running and improved swap rollback and category validation.\n- Added the Standard UI and Clean UI modes, reduced the Clean UI glass shine and corrected loading states, button hover and press feedback.\n- Fixed Workshop download verification and progress reporting, and improved background startup and network cleanup.\n- Marked Custom Macro as development in progress while controller recording is being stabilized.",
   "artifact": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.94/bondo-mod-0.1.94-x64.nsis.7z",
-    "fileName": "bondo-mod-0.1.94-x64.nsis.7z",
-    "size": 207395186,
-    "sha256": "553c44b03a331993bc1af591c9caa56b4f92ac32bd3b78d2f56529ed62225c0d"
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.95/bondo-mod-0.1.95-x64.nsis.7z",
+    "fileName": "bondo-mod-0.1.95-x64.nsis.7z",
+    "size": 207469031,
+    "sha256": "00a5331dff9a86ee1b6795502a3405d6bcd0c6b2acdcb52469dbb6c0793ee768"
   },
   "installer": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.94/BondoMod-Installer.exe",
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.95/BondoMod-Installer.exe",
     "fileName": "BondoMod-Installer.exe",
-    "size": 44032,
-    "sha256": "476c992fed7ba650dcb6e6a5083ca2c746ba5b18ba5fa02db2288ab300e4ce2f"
+    "size": 44544,
+    "sha256": "9f6412264569804d4146458670797b44d125b544097b543b02e1e04ba06ec554"
   },
   "setup": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.94/BondoMod-Setup-0.1.94.exe",
-    "fileName": "BondoMod-Setup-0.1.94.exe",
-    "size": 698668,
-    "sha256": "c9a0c8082ef2dfeb54f094b5c6b8896cd2b1842fdde6c031aa4a845595256d72"
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.95/BondoMod-Setup-0.1.95.exe",
+    "fileName": "BondoMod-Setup-0.1.95.exe",
+    "size": 698568,
+    "sha256": "9aec5bb28db2ed9761fc0711e5cd6490baf151f3716a2b515f62f78b43f5c372"
   },
-  "signature": "1N6JZm0ofTlFUl7T0/b+9ts7gvVwYj9KRLyK3+qtm0T1ytczy2VY0BFZnSqfGOHLMecdsLhNsx4lFL6Tul/bAA=="
+  "signature": "5KHoNDEzrbGIoCKQGLRDxxF1mnMLnyjIXpWmM/OKOqmAhRoLR0SYKd4E6JMdg60cXh5g5x93b1qWYdlgBC4mBw=="
 }
