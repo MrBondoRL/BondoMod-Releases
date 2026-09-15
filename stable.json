@@ -1,28 +1,28 @@
 {
   "schemaVersion": 1,
   "channel": "stable",
-  "version": "0.1.96",
-  "minimumVersion": "0.1.96",
+  "version": "0.1.97",
+  "minimumVersion": "0.1.97",
   "required": false,
-  "publishedAt": "2026-09-12T21:26:08.9297754Z",
-  "notes": "Item Spawn now stays connected while Rocket League moves between menus and matches, and spawned items are applied only to your own car. Title catalog loading is more reliable after Rocket League refreshes its cache. Workshop Multiplayer now prevents duplicate room connections, shows join errors clearly, and includes a working Leave Room action.\r\n\r\nThis update may still contain bugs. Please report any issue immediately so it can be fixed.",
+  "publishedAt": "2026-09-15T14:25:43.5027091Z",
+  "notes": "Item Spawn now stays connected when moving between matches and the main menu. Spawned cars, boosts, and goal explosions remain applied after goals, while other players keep their own items. Connection failures now show a clear Connection Error instead of a misleading EAC warning. The Item Swapper catalog also includes the newest bundled items.\r\n\r\nThis update may still contain bugs. Please report any issue immediately so it can be fixed.",
   "artifact": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.96/bondo-mod-0.1.96-x64.nsis.7z",
-    "fileName": "bondo-mod-0.1.96-x64.nsis.7z",
-    "size": 207473263,
-    "sha256": "baca0e65943706c55daabd02cbba32977804298eea2817e5804d4348a8ebddbe"
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.97/bondo-mod-0.1.97-x64.nsis.7z",
+    "fileName": "bondo-mod-0.1.97-x64.nsis.7z",
+    "size": 207427501,
+    "sha256": "3a15c3b853fffa6510fd282338f375a61c6691bed3908373aa089fde4e9f62a4"
   },
   "installer": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.96/BondoMod-Installer.exe",
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.97/BondoMod-Installer.exe",
     "fileName": "BondoMod-Installer.exe",
     "size": 44032,
-    "sha256": "e5aba94ebea2196228d832a5d0d1c4a3ea0f9825d469813f4c83a3fca8baea29"
+    "sha256": "41e781d9f1a6113fc3bf12cbb60c42de19dbba1fac3d7269b9cd9f109351796c"
   },
   "setup": {
-    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.96/BondoMod-Setup-0.1.96.exe",
-    "fileName": "BondoMod-Setup-0.1.96.exe",
-    "size": 698559,
-    "sha256": "b28b537d6df75b811ff0512e3458871b7fcb43a0dc960dd252995ed0f9a34af3"
+    "url": "https://github.com/MrBondoRL/BondoMod-Releases/releases/download/v0.1.97/BondoMod-Setup-0.1.97.exe",
+    "fileName": "BondoMod-Setup-0.1.97.exe",
+    "size": 698560,
+    "sha256": "c9bfaf71d55746e928f3af1467a55879b3be98d7f05e5279346e79d4b494d15f"
   },
-  "signature": "sBauX9bXkWFA0lk/WmXzbPxqwIrDS47Ozy2TP1+j7mH4P/DljnYyVtYZJ7Ym1X1C7ypd4mhZsfMr8d1rZll3DA=="
+  "signature": "Uf2ttTzQXy9B9Q/j8Pio3UbcRLOfXauxQ3lQk4JlS9Gee6cBENsEExKCRaPzIgqF8uPc3L8vA3CZJxfCkESqCA=="
 }
